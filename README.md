@@ -42,7 +42,7 @@
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link]() | 1 | |
 | 40 |	SARTHAK JAIN (RA2011026010112) | [Link]() | 1 | |
 | 41 |	HARIKESH P (RA2011026010193) | [Link]() | 1 | |
-| 42 |	KISHORE KHAN S (RA2011026010233) | [Link]() | 1 | |
+| 42 |	KISHORE KHAN S (RA2011026010233) | [Link](https://kishorekhan2003.github.io/18CSE301J_RA2011026010233/) | 1 |:white_check_mark:|
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link]() | 1 | |
 | 44 |	Gadiraju Chinmay Varma (RA2011026010374) | [Link]() | 1 | |
 | 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link]() | 1 | |
@@ -57,7 +57,7 @@
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link]() | 1 | |
-| 57 |	ANKIT RAJ (RA2011032010020)	 | [Link]() | 1 | |
+| 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |:white_check_mark: |
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
