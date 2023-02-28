@@ -3,7 +3,7 @@
 | :---: | :---: | :---: |:---: | :---: |
 | 1 | MOHD AMAAN (RA2011003010003) | [Link]() | 1 | |
 | 2 | AYUSHYA JAIN (RA2011003010010) | [Link]() | 1 | |
-| 3 | ABHAY LAL (RA2011003010014	) | [Link](https://github.com/abhay-lal/18CSE301J-RA2011003010014) | 1 | :white_check_mark: |
+| 3 | ABHAY LAL (RA2011003010014	) | [Link]() | 1 |  |
 | 4 | KEVIN THOMAS KOSHY (	RA2011003010018	) | [Link]() | 1 | |
 | 5 | SYED SHAHID ILHAN F (RA2011003010048) | [Link]() | 1 | |
 | 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link]() | 1 | |
