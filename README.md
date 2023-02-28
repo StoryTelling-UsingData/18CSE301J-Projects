@@ -10,7 +10,7 @@
 | 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link]() | 1 | |
 | 8 |	SHIVAM SINGH (RA2011003010087) | [Link](https://shivam94353.github.io/18CSE301J_RA2011003010087.github.io/) | 1 |:white_check_mark: |
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link]() | 1 | |
-| 10 |	NIKHIL BURDAK (RA2011003010209) | [Link]() | 1 | |
+| 10 |	NIKHIL BURDAK (RA2011003010209) | [Link](https://nikhilburdak.github.io/18CSE301J_RA2011003010209/) | 1 | :white_check_mark: |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
 | 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
 | 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
