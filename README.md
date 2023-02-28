@@ -12,7 +12,7 @@
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link]() | 1 | |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link]() | 1 | |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
-| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
+| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link]() | 1 | |
 | 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link]() | 1 | |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link]() | 1 | |
@@ -49,7 +49,7 @@
 | 46 |	SUDHERSAN SRINIVASAN K V (RA2011030010094) | [Link]() | 1 | |
 | 47 |  ANAS AHMED ATHER (RA2011031010006) | [Link]() | 1 | |
 | 48 |	PRITHVI SINGH KIRAR (RA2011031010023) | [Link]() | 1 | |
-| 49 |	SHARWAN KUMAR (RA2011031010034) | [Link]() | 1 | |
+| 49 |	SHARWAN KUMAR (RA2011031010034) | [Link](https://sharwannnn.github.io/18CSE301J-RA2011031010034/) | 1 | :white_check_mark: |
 | 50 |  Kartik jaiswal (RA2011031010060) | [Link]() | 1 | |
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
 | 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
