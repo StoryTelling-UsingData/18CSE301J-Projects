@@ -54,7 +54,7 @@
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
 | 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
-| 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
+| 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link]() | 1 | |
 | 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
