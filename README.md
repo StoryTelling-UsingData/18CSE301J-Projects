@@ -112,7 +112,7 @@
 | 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
 | 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
 | 111 |	MAHEK KAMANI (RA2011029010050) | [Link]() | 2 | |
-| 112 |	Shaleen dubey (RA2011029010054) | [Link]() | 2 | |
+| 112 |	Shaleen dubey (RA2011029010054) | [Link](https://shaleendubey.github.io/18CSE301J_RA2011029010054/) | 2 | :white_check_mark: |
 | 113 |	DEBDATTA SINGHA (RA2011029010056) | [Link]() | 2 | |
 | 114 |	UDARAPU CHANDU (RA2011029010058) | [Link]() | 2 | |
 | 115 |	PARATE PALKINI AVINASH (RA2011029010061) | [Link]() | 2 | |
