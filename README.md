@@ -52,7 +52,7 @@
 | 49 |	SHARWAN KUMAR (RA2011031010034) | [Link]() | 1 | |
 | 50 |  Kartik jaiswal (RA2011031010060) | [Link]() | 1 | |
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
-| 52 |	Vanshit Rawat (RA2011031010067) | [Link](https://vanshitrawat.github.io/18CSE301J_RA2011031010067/) | 1 |:white_check_mark: |
+| 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
@@ -109,7 +109,7 @@
 | 106 |	KOMMURI SANJEEVA REDDY (RA2011029010017) | [Link]() | 2 | |
 | 107 |	ADITYA PATHAK (RA2011029010020) | [Link]() | 2 | |
 | 108 |	KIRTI KALAL (RA2011029010031) | [Link]() | 2 | |
-| 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
+| 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link](https://kamathshashank1111.github.io/18CSE301J_RA2011029010036/) | 2 |  :white_check_mark:  |
 | 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
 | 111 |	MAHEK KAMANI (RA2011029010050) | [Link]() | 2 | |
 | 112 |	Shaleen dubey (RA2011029010054) | [Link]() | 2 | |
