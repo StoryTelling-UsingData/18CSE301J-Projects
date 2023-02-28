@@ -69,7 +69,7 @@
 | 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link]() | 2 | |
 | 67 |	Sidharth D (RA2011003010847) | [Link]() | 2 | |
 | 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link]() | 2 | |
-| 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link]() | 2 | |
+| 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link](https://prabhav-ra2011003011010.github.io/18CSE301J_RA2011003011010/) | 2 | :white_check_mark:|
 | 70 |	PRAVIEEN A S (RA2011003011015) | [Link]() | 2 | |
 | 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link]() | 2 | |
