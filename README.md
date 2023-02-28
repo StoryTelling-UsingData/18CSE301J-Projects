@@ -24,7 +24,7 @@
 | 21 |	SIMRAH RAFIQI (RA2011003010348) | [Link]() | 1 | |
 | 22 |	POORVI MITTAL (RA2011003010361) | [Link]() | 1 | |
 | 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link]() | 1 | |
-| 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link]() | 1 | |
+| 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link](https://swaraliii.github.io/18CSE301J_RA2011003010377/) | 1 | :white_check_mark: |
 | 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link]() | 1 | |
 | 26 |	MEHUL SAINI (RA2011003010389) | [Link]() | 1 | |
 | 27 |	FAISAL NAZIR (RA2011003010441) | [Link]() | 1 | |
@@ -52,7 +52,7 @@
 | 49 |	SHARWAN KUMAR (RA2011031010034) | [Link]() | 1 | |
 | 50 |  Kartik jaiswal (RA2011031010060) | [Link]() | 1 | |
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
-| 52 |	Vanshit Rawat (RA2011031010067) | [Link](https://vanshitrawat.github.io/18CSE301J_RA2011031010067/) | 1 |:white_check_mark: |
+| 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
