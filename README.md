@@ -45,7 +45,7 @@
 | 42 |	KISHORE KHAN S (RA2011026010233) | [Link]() | 1 | |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
 | 44 |	Gadiraju Chinmay Varma (RA2011026010374) | [Link]() | 1 | |
-| 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link]() | 1 | |
+| 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link](https://adarshjamuaar.github.io/18CSE301J_RA2011028010018/) | 1 |:white_check_mark:|
 | 46 |	SUDHERSAN SRINIVASAN K V (RA2011030010094) | [Link]() | 1 | |
 | 47 |  ANAS AHMED ATHER (RA2011031010006) | [Link]() | 1 | |
 | 48 |	PRITHVI SINGH KIRAR (RA2011031010023) | [Link]() | 1 | |
