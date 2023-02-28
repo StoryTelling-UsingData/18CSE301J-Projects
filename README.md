@@ -1,7 +1,7 @@
 # 18CSE301J-Projects
 | S.No. | Name (Roll No) | Link | Batch |
 | :---: | :---: | :---: |:---: |
-| 1 | MOHD AMAAN (RA2011003010003) | [Link]() | 1 |
+| 1 | MOHD AMAAN (RA2011003010003) | [Link](https://github.com/Amaan7866/18CSE301J) | 1 |
 | 2 | AYUSHYA JAIN (RA2011003010010) | [Link]() | 1 |
 | 3 | ABHAY LAL (RA2011003010014	) | [Link](https://github.com/abhay-lal/18CSE301J-RA2011003010014) | 1 |
 | 4 | KEVIN THOMAS KOSHY (	RA2011003010018	) | [Link]() | 1 |
