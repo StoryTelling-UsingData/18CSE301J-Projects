@@ -37,7 +37,7 @@
 | 34 |	SUYASH JOSHI (RA2011003010508) | [Link]() | 1 | |
 | 35 |	BASIT HASAN (RA2011003010532) | [Link]() | 1 | |
 | 36 |	NIPUN CHAURASIA (RA2011003010536) | [Link]() | 1 | |
-| 37 |	ANANTHABHOTLA CHANDRA SEKHAR V (RA2011003010591) | [Link]() | 1 | |
+| 37 |	ANANTHABHOTLA CHANDRA SEKHAR (RA2011003010591) | [[Link](https://chan279.github.io/18CSE301J-RA2011003010591/) | 1 | :white_check_mark: |
 | 38 |	MANAN KADEL (RA2011026010085) | [Link]() | 1 | |
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link]() | 1 | |
 | 40 |	SARTHAK JAIN (RA2011026010112) | [Link]() | 1 | |
@@ -45,7 +45,7 @@
 | 42 |	KISHORE KHAN S (RA2011026010233) | [Link]() | 1 | |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
 | 44 |	Gadiraju Chinmay Varma (RA2011026010374) | [Link]() | 1 | |
-| 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link](https://adarshjamuaar.github.io/18CSE301J_RA2011028010018/) | 1 |:white_check_mark:|
+| 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link]() | 1 | |
 | 46 |	SUDHERSAN SRINIVASAN K V (RA2011030010094) | [Link]() | 1 | |
 | 47 |  ANAS AHMED ATHER (RA2011031010006) | [Link]() | 1 | |
 | 48 |	PRITHVI SINGH KIRAR (RA2011031010023) | [Link]() | 1 | |
@@ -61,64 +61,4 @@
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
-| 61 |  Vikram Saurav (RA2011003010714) | [Link]() | 2 | |
-| 62 |	SUBRAMANIAN R (RA2011003010727) | [Link]() | 2 | |
-| 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
-| 64 |	Vikash P R (RA2011003010737) | [Link]() | 2 | |
-| 65 |	M M Sabaresh (RA2011003010781) | [Link]() | 2 | |
-| 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link]() | 2 | |
-| 67 |	Sidharth D (RA2011003010847) | [Link]() | 2 | |
-| 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link]() | 2 | |
-| 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link]() | 2 | |
-| 70 |	PRAVIEEN A S (RA2011003011015) | [Link]() | 2 | |
-| 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
-| 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link]() | 2 | |
-| 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
-| 74 |	Mritunjay kumar jha (RA2011003011069) | [Link]() | 2 | |
-| 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
-| 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link]() | 2 | |
-| 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
-| 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link]() | 2 | |
-| 79 |	NIVEDITA ANAND (RA2011003011096) | [Link]() | 2 | |
-| 80 |	Rishabh Dharmik (RA2011003011129) | [Link]() | 2 | |
-| 81 |	GOKAVARAPU SAI HARISH (RA2011003011185) | [Link]() | 2 | |
-| 82 |	Aryan Vats (RA2011003011205) | [Link]() | 2 | |
-| 83 |	MELAM SIVA RAM (RA2011003011208) | [Link]() | 2 | |
-| 84 |	Aryaman Adivya Singh (RA2011003011266) | [Link]() | 2 | |
-| 85 |	NITIN KUMAR SRIVASTAVA (RA2011003011322) | [Link]() | 2 | |
-| 86 |	SURESH SUTHAR (RA2011003011323) | [Link]() | 2 | |
-| 87 |	MARAM SAISWAROOPREDDY (RA2011003011362) | [Link]() | 2 | |
-| 88 |	BALAJI MURUGAN P (RA2011003011404) | [Link]() | 2 | |
-| 89 |	AKASH P S (RA2011026010003) | [Link]() | 2 | |
-| 90 |    ACHAL KAMBOJ (RA2011026010028) | [Link]() | 2 | |
-| 91 |	ANMOL AGARWAL (RA2011026010034) | [Link]() | 2 | |
-| 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link]() | 2 | |
-| 93 |	ANISH TUSHAR PARKHE (RA2011026010285) | [Link]() | 2 | |
-| 94 |	VAARSHITH N (RA2011026010303) | [Link]() | 2 | |
-| 95 |	JANGITI ADITYA (RA2011026010386) | [Link]() | 2 | |
-| 96 |	Siripi Nikhil Kumar Reddy (RA2011026010435) | [Link]() | 2 | |
-| 97 |	Challa Shashank reddy (RA2011026010441) | [Link]() | 2 | |
-| 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
-| 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link]() | 2 | |
-| 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
-| 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link]() | 2 | |
-| 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link]() | 2 | |
-| 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link]() | 2 | |
-| 104 |	NAMAN ANAND (RA2011029010013) | [Link]() | 2 | |
-| 105 |	SRINIVAS T.B (RA2011029010015) | [Link]() | 2 | |
-| 106 |	KOMMURI SANJEEVA REDDY (RA2011029010017) | [Link]() | 2 | |
-| 107 |	ADITYA PATHAK (RA2011029010020) | [Link]() | 2 | |
-| 108 |	KIRTI KALAL (RA2011029010031) | [Link]() | 2 | |
-| 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
-| 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
-| 111 |	MAHEK KAMANI (RA2011029010050) | [Link]() | 2 | |
-| 112 |	Shaleen dubey (RA2011029010054) | [Link]() | 2 | |
-| 113 |	DEBDATTA SINGHA (RA2011029010056) | [Link]() | 2 | |
-| 114 |	UDARAPU CHANDU (RA2011029010058) | [Link]() | 2 | |
-| 115 |	PARATE PALKINI AVINASH (RA2011029010061) | [Link]() | 2 | |
-| 116 |	RUDRA VIJAYA VENKATA KRISHNA (RA2011029010063) | [Link]() | 2 | |
-| 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link]() | 2 | |
-| 118 |	SURYA PRAKASH S (RA2011030010137) | [Link]() | 2 | |
-| 119 |	PECHETTI SAI VAIBHAV (RA2011030010156) | [Link]() | 2 | |
-| 120 |	Arjun Dev Singla (RA2011031010074) | [Link]() | 2 | |
-| 121 |	Yenduri Sesha Vineeth (RA2011031010129) | [Link]() | 2 | |
+
