@@ -12,7 +12,7 @@
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link]() | 1 | |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link]() | 1 | |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
-| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
+| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link]() | 1 | |
 | 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link]() | 1 | |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link]() | 1 | |
@@ -82,7 +82,7 @@
 | 79 |	NIVEDITA ANAND (RA2011003011096) | [Link]() | 2 | |
 | 80 |	Rishabh Dharmik (RA2011003011129) | [Link]() | 2 | |
 | 81 |	GOKAVARAPU SAI HARISH (RA2011003011185) | [Link]() | 2 | |
-| 82 |	Aryan Vats (RA2011003011205) | [Link]() | 2 | |
+| 82 |	Aryan Vats (RA2011003011205) | [Link](https://vaan205.github.io/18CSE301J_RA2011003011205/) | 2 |   :white_check_mark:  |
 | 83 |	MELAM SIVA RAM (RA2011003011208) | [Link]() | 2 | |
 | 84 |	Aryaman Adivya Singh (RA2011003011266) | [Link]() | 2 | |
 | 85 |	NITIN KUMAR SRIVASTAVA (RA2011003011322) | [Link]() | 2 | |
