@@ -120,5 +120,5 @@
 | 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link]() | 2 | |
 | 118 |	SURYA PRAKASH S (RA2011030010137) | [Link]() | 2 | |
 | 119 |	PECHETTI SAI VAIBHAV (RA2011030010156) | [Link]() | 2 | |
-| 120 |	Arjun Dev Singla (RA2011031010074) | [Link]() | 2 | |
+| 120 |	Arjun Dev Singla (RA2011031010074) | [Link](https://arjundevsingla.github.io/18CSE301J_RA2011031010074/) | 2 | :white_check_mark: |
 | 121 |	Yenduri Sesha Vineeth (RA2011031010129) | [Link]() | 2 | |
