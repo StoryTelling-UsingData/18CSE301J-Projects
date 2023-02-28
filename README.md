@@ -82,7 +82,7 @@
 | 79 |	NIVEDITA ANAND (RA2011003011096) | [Link]() | 2 | |
 | 80 |	Rishabh Dharmik (RA2011003011129) | [Link]() | 2 | |
 | 81 |	GOKAVARAPU SAI HARISH (RA2011003011185) | [Link]() | 2 | |
-| 82 |	Aryan Vats (RA2011003011205) | [Link]() | 2 | |
+| 82 |	Aryan Vats (RA2011003011205) | [Link](https://vaan205.github.io/18CSE301J_RA2011003011205/) | 2 |   :white_check_mark:   |
 | 83 |	MELAM SIVA RAM (RA2011003011208) | [Link]() | 2 | |
 | 84 |	Aryaman Adivya Singh (RA2011003011266) | [Link]() | 2 | |
 | 85 |	NITIN KUMAR SRIVASTAVA (RA2011003011322) | [Link]() | 2 | |
