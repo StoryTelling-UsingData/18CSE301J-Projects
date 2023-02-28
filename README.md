@@ -52,7 +52,7 @@
 | 49 |	SHARWAN KUMAR (RA2011031010034) | [Link]() | 1 | |
 | 50 |  Kartik jaiswal (RA2011031010060) | [Link]() | 1 | |
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
-| 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
+| 52 |	Vanshit Rawat (RA2011031010067) | [Link](https://vanshitrawat.github.io/18CSE301J_RA2011031010067/) | 1 |:white_check_mark: |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
