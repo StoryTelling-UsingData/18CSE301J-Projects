@@ -54,7 +54,7 @@
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
 | 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
-| 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
+| 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link]() | 1 | |
 | 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
@@ -101,7 +101,7 @@
 | 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
 | 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link]() | 2 | |
 | 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
-| 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link]() | 2 | |
+| 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link](https://jayeshsc.github.io/18CSE301J_RA2011028010094/) | 2 | :white_check_mark: |
 | 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link]() | 2 | |
 | 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link]() | 2 | |
 | 104 |	NAMAN ANAND (RA2011029010013) | [Link]() | 2 | |
