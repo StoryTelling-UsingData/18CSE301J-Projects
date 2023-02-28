@@ -76,7 +76,7 @@
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link]() | 2 | |
 | 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
-| 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link]() | 2 | |
+| 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link](https://adithya-06.github.io/18CSE301J_RA2011003011072/) | 2 |:white_check_mark:|
 | 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
 | 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link]() | 2 | |
 | 79 |	NIVEDITA ANAND (RA2011003011096) | [Link]() | 2 | |
