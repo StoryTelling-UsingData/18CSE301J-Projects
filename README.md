@@ -78,7 +78,7 @@
 | 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
 | 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link]() | 2 | |
 | 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
-| 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link]() | 2 | |
+| 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link](https://sarvesh244.github.io/18CSE301J_RA2011003011094/) | 2 | |
 | 79 |	NIVEDITA ANAND (RA2011003011096) | [Link]() | 2 | |
 | 80 |	Rishabh Dharmik (RA2011003011129) | [Link]() | 2 | |
 | 81 |	GOKAVARAPU SAI HARISH (RA2011003011185) | [Link]() | 2 | |
