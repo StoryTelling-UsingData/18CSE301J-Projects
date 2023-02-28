@@ -8,11 +8,11 @@
 | 5 | SYED SHAHID ILHAN F (RA2011003010048) | [Link]() | 1 | |
 | 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link]() | 1 | |
 | 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link]() | 1 | |
-| 8 |	SHIVAM SINGH (RA2011003010087) | [Link](https://shivam94353.github.io/18CSE301J_RA2011003010087.github.io/) | 1 |:white_check_mark: |
+| 8 |	SHIVAM SINGH (RA2011003010087) | [Link]() | 1 | |
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link]() | 1 | |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link]() | 1 | |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
-| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
+| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link]() | 1 | |
 | 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link]() | 1 | |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link]() | 1 | |
@@ -42,7 +42,7 @@
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link]() | 1 | |
 | 40 |	SARTHAK JAIN (RA2011026010112) | [Link]() | 1 | |
 | 41 |	HARIKESH P (RA2011026010193) | [Link]() | 1 | |
-| 42 |	KISHORE KHAN S (RA2011026010233) | [Link](https://kishorekhan2003.github.io/18CSE301J_RA2011026010233/) | 1 |:white_check_mark: |
+| 42 |	KISHORE KHAN S (RA2011026010233) | [Link]() | 1 | |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
 | 44 |	Gadiraju Chinmay Varma (RA2011026010374) | [Link]() | 1 | |
 | 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link](https://adarshjamuaar.github.io/18CSE301J_RA2011028010018/) | 1 |:white_check_mark:|
@@ -54,7 +54,7 @@
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
 | 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
-| 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
+| 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link]() | 1 | |
 | 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
@@ -72,7 +72,7 @@
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link]() | 2 | |
 | 70 |	PRAVIEEN A S (RA2011003011015) | [Link]() | 2 | |
 | 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
-| 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link]() | 2 | |
+| 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [https://pm0205.github.io/18CSE301J_RA2011003011045/]() | 2 |:white_check_mark:|
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link]() | 2 | |
 | 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
