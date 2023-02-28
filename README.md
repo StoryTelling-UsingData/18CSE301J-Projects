@@ -57,7 +57,7 @@
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link]() | 1 | |
-| 57 |	ANKIT RAJ (RA2011032010020)	 | [Link]() | 1 | |
+| 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
