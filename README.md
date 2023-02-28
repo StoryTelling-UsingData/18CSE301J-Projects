@@ -70,7 +70,7 @@
 | 67 |	Sidharth D (RA2011003010847) | [Link]() | 2 | |
 | 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link]() | 2 | |
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link]() | 2 | |
-| 70 |	PRAVIEEN A S (RA2011003011015) | [Link]() | 2 | |
+| 70 |	PRAVIEEN A S (RA2011003011015) | [Link](https://sites.google.com/srmist.edu.in/aspcom/home) | 2 | :white_check_mark:|
 | 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link]() | 2 | |
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
