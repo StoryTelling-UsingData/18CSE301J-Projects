@@ -12,7 +12,7 @@
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link]() | 1 | |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link]() | 1 | |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
-| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
+| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link]() | 1 | |
 | 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link]() | 1 | |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link]() | 1 | |
@@ -112,7 +112,7 @@
 | 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
 | 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
 | 111 |	MAHEK KAMANI (RA2011029010050) | [Link]() | 2 | |
-| 112 |	Shaleen dubey (RA2011029010054) | [Link]() | 2 | |
+| 112 |	Shaleen dubey (RA2011029010054) | [Link](https://github.com/ShaleenDubey/18CSC301J_RA2011029010054/blob/main/chapter2.html) | 2 | :white_check_mark: |
 | 113 |	DEBDATTA SINGHA (RA2011029010056) | [Link]() | 2 | |
 | 114 |	UDARAPU CHANDU (RA2011029010058) | [Link]() | 2 | |
 | 115 |	PARATE PALKINI AVINASH (RA2011029010061) | [Link]() | 2 | |
