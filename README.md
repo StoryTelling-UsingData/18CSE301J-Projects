@@ -71,7 +71,7 @@
 | 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link]() | 2 | |
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link]() | 2 | |
 | 70 |	PRAVIEEN A S (RA2011003011015) | [Link]() | 2 | |
-| 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
+| 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link](https://github.com/Sainath3679/18CSE301J_RA2011003011026/) | 2 |:white_check_mark: |
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link]() | 2 | |
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link]() | 2 | |
@@ -117,7 +117,7 @@
 | 114 |	UDARAPU CHANDU (RA2011029010058) | [Link]() | 2 | |
 | 115 |	PARATE PALKINI AVINASH (RA2011029010061) | [Link]() | 2 | |
 | 116 |	RUDRA VIJAYA VENKATA KRISHNA (RA2011029010063) | [Link]() | 2 | |
-| 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link](https://siddhardha123.github.io/18CSE301J_RA2011030010003/) | 2 | :white_check_mark: |
+| 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link]() | 2 | |
 | 118 |	SURYA PRAKASH S (RA2011030010137) | [Link]() | 2 | |
 | 119 |	PECHETTI SAI VAIBHAV (RA2011030010156) | [Link]() | 2 | |
 | 120 |	Arjun Dev Singla (RA2011031010074) | [Link](https://arjundevsingla.github.io/18CSE301J_RA2011031010074/) | 2 | :white_check_mark: |
