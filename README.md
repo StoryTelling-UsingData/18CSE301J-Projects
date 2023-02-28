@@ -92,7 +92,7 @@
 | 89 |	AKASH P S (RA2011026010003) | [Link]() | 2 | |
 | 90 |    ACHAL KAMBOJ (RA2011026010028) | [Link]() | 2 | |
 | 91 |	ANMOL AGARWAL (RA2011026010034) | [Link]() | 2 | |
-| 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link](https://harshjainsk.github.io/18CSE301J_RA2011026010141/) | 2 | :white_check_mark: |
+| 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link]() | 2 | |
 | 93 |	ANISH TUSHAR PARKHE (RA2011026010285) | [Link]() | 2 | |
 | 94 |	VAARSHITH N (RA2011026010303) | [Link]() | 2 | |
 | 95 |	JANGITI ADITYA (RA2011026010386) | [Link]() | 2 | |
@@ -111,7 +111,7 @@
 | 108 |	KIRTI KALAL (RA2011029010031) | [Link]() | 2 | |
 | 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
 | 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
-| 111 |	MAHEK KAMANI (RA2011029010050) | [Link]() | 2 | |
+| 111 |	MAHEK KAMANI (RA2011029010050) | [Link]([)](https://mahekkamani.github.io/18CSE301J_RA2011029010050/) | 2 | |
 | 112 |	Shaleen dubey (RA2011029010054) | [Link]() | 2 | |
 | 113 |	DEBDATTA SINGHA (RA2011029010056) | [Link]() | 2 | |
 | 114 |	UDARAPU CHANDU (RA2011029010058) | [Link]() | 2 | |
@@ -120,5 +120,5 @@
 | 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link]() | 2 | |
 | 118 |	SURYA PRAKASH S (RA2011030010137) | [Link]() | 2 | |
 | 119 |	PECHETTI SAI VAIBHAV (RA2011030010156) | [Link]() | 2 | |
-| 120 |	Arjun Dev Singla (RA2011031010074) | [Link](https://arjundevsingla.github.io/18CSE301J_RA2011031010074/) | 2 | :white_check_mark: |
+| 120 |	Arjun Dev Singla (RA2011031010074) | [Link](https://mahekkamani.github.io/18CSE301J_RA2011029010050/) | 2 | :white_check_mark: |
 | 121 |	Yenduri Sesha Vineeth (RA2011031010129) | [Link]() | 2 | |
