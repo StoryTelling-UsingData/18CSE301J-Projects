@@ -109,7 +109,7 @@
 | 106 |	KOMMURI SANJEEVA REDDY (RA2011029010017) | [Link]() | 2 | |
 | 107 |	ADITYA PATHAK (RA2011029010020) | [Link](https://aditya-77.github.io/18CSE301J_RA2011029010020/) | 2 | :white_check_mark: |
 | 108 |	KIRTI KALAL (RA2011029010031) | [Link](https://kirtikalal.github.io/18CSE301J_RA2011029010031/) | 2 |:white_check_mark: |
-| 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
+| 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link](https://kamathshashank1111.github.io/18CSE301J_RA2011029010036/) | 2 | :white_check_mark: |
 | 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
 | 111 |	MAHEK KAMANI (RA2011029010050) | [Link](https://mahekkamani.github.io/18CSE301J_RA2011029010050/) | 2 | :white_check_mark: |
 | 112 |	Shaleen dubey (RA2011029010054) | [Link](https://shaleendubey.github.io/18CSE301J_RA2011029010054/) | 2 | :white_check_mark: |
