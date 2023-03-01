@@ -26,7 +26,7 @@
 | 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link](https://ayutzo.github.io/18CSE301J_RA2011003010375/) | 1 | :white_check_mark: |
 | 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link]() | 1 | |
 | 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link]() | 1 | |
-| 26 |	MEHUL SAINI (RA2011003010389) | [Link]() | 1 | |
+| 26 |	MEHUL SAINI (RA2011003010389) | [Link](https://mehul389.github.io/18CSE301J_RA2011003010389/) | 1 |:white_check_mark: |
 | 27 |	FAISAL NAZIR (RA2011003010441) | [Link]() | 1 | |
 | 28 |	PRATEEK BAHRANI (RA2011003010447) | [Link]() | 1 | |
 | 29 |	PRAJJWAL DEEP GHOSH (RA2011003010482) | [Link]() | 1 | |
