@@ -41,7 +41,7 @@
 | 38 |	MANAN KADEL (RA2011026010085) | [Link]() | 1 | |
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link]() | 1 | |
 | 40 |	SARTHAK JAIN (RA2011026010112) | [Link]() | 1 | |
-| 41 |	HARIKESH P (RA2011026010193) | [Link]() | 1 | |
+| 41 |	HARIKESH P (RA2011026010193) | [Link](https://harikesh11.github.io/18CSE301J_RA2011026010193/) | 1 |:white_check_mark: |
 | 42 |	KISHORE KHAN S (RA2011026010233) | [Link](https://kishorekhan2003.github.io/18CSE301J_RA2011026010233/) | 1 |:white_check_mark: |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
 | 44 |	Gadiraju Chinmay Varma (RA2011026010374) | [Link]() | 1 | |
