@@ -61,7 +61,7 @@
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
-| 61 |  Vikram Saurav (RA2011003010714) | [Link]() | 2 | |
+| 61 |  Vikram Saurav (RA2011003010714) | [Link](https://vikku911.github.io/18CSC301J_RA2011003010714/) | 2 |:white_check_mark:  |
 | 62 |	SUBRAMANIAN R (RA2011003010727) | [Link](https://sites.google.com/srmist.edu.in/subramanian727/home) | 2 |:white_check_mark: |
 | 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
 | 64 |	Vikash P R (RA2011003010737) | [Link](https://vikashpr.github.io/18CSE301J_RA2011003010737/) | 2 | :white_check_mark: |
