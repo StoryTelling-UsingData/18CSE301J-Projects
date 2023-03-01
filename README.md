@@ -96,7 +96,7 @@
 | 93 |	ANISH TUSHAR PARKHE (RA2011026010285) | [Link]() | 2 | |
 | 94 |	VAARSHITH N (RA2011026010303) | [Link](https://sites.google.com/srmist.edu.in/varshith/home) | 2 |  :white_check_mark: |
 | 95 |	JANGITI ADITYA (RA2011026010386) | [Link]() | 2 | |
-| 96 |	Siripi Nikhil Kumar Reddy (RA2011026010435) | [Link]() | 2 | |
+| 96 |	Siripi Nikhil Kumar Reddy (RA2011026010435) | [Link](https://nikhil6800.github.io/18CSE301J_RA2011026010435/) | 2 | :white_check_mark: |
 | 97 |	Challa Shashank reddy (RA2011026010441) | [Link]() | 2 | |
 | 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
 | 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link]() | 2 | |
