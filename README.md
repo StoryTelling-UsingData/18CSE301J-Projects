@@ -27,7 +27,7 @@
 | 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link](https://swaraliii.github.io/18CSE301J_RA2011003010377/) | 1 | :white_check_mark: |
 | 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link]() | 1 | |
 | 26 |	MEHUL SAINI (RA2011003010389) | [Link](https://mehul389.github.io/18CSE301J_RA2011003010389/) | 1 |:white_check_mark: |
-| 27 |	FAISAL NAZIR (RA2011003010441) | [Link]() | 1 | |
+| 27 |	FAISAL NAZIR (RA2011003010441) | [Link](https://faisalnazir7.github.io/18CSE301J_RA2011003010441/) | 1 | :white_check_mark: |
 | 28 |	PRATEEK BAHRANI (RA2011003010447) | [Link]() | 1 | |
 | 29 |	PRAJJWAL DEEP GHOSH (RA2011003010482) | [Link]() | 1 | |
 | 30 |	PRATEEK N (RA2011003010491) | [Link](https://prateek-sn-coder.github.io/18CSE301J_RA2011003010491/) | 1 |:white_check_mark: |
