@@ -79,7 +79,7 @@
 | 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link](https://adithya-06.github.io/18CSE301J_RA2011003011072/) | 2 |:white_check_mark:|
 | 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
 | 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link](https://sarvesh244.github.io/18CSE301J_RA2011003011094/) | 2 | :white_check_mark:  |
-| 79 |	NIVEDITA ANAND (RA2011003011096) | [Link]() | 2 | |
+| 79 |	NIVEDITA ANAND (RA2011003011096) | [Link](https://github.com/niv-a/18CSE301J_RA2011003011096) | 2 |  :white_check_mark: |
 | 80 |	Rishabh Dharmik (RA2011003011129) | [Link]() | 2 | |
 | 81 |	GOKAVARAPU SAI HARISH (RA2011003011185) | [Link](https://gh9049.github.io/18CSE301J_RA2011003011185/) | 2 |:white_check_mark: |
 | 82 |	Aryan Vats (RA2011003011205) | [Link](https://vaan205.github.io/18CSE301J_RA2011003011205/) | 2 |  :white_check_mark:|
