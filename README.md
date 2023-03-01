@@ -105,7 +105,7 @@
 | 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link](https://ctrlcode9.github.io/18CSE301J_RA2011029010001/) | 2 |:white_check_mark: |
 | 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link]() | 2 | |
 | 104 |	NAMAN ANAND (RA2011029010013) | [Link](https://naman-anand88.github.io/18CSE301J_RA2011029010013/) | 2 |:white_check_mark: |
-| 105 |	SRINIVAS T.B (RA2011029010015) | [Link]() | 2 | |
+| 105 |	SRINIVAS T.B (RA2011029010015) | [Link](https://notahuman-1-0.github.io/18CSE301J_RA2011029010015/) | 2 | :white_check_mark: |
 | 106 |	KOMMURI SANJEEVA REDDY (RA2011029010017) | [Link]() | 2 | |
 | 107 |	ADITYA PATHAK (RA2011029010020) | [Link]() | 2 | |
 | 108 |	KIRTI KALAL (RA2011029010031) | [Link](https://kirtikalal.github.io/18CSE301J_RA2011029010031/) | 2 |:white_check_mark: |
