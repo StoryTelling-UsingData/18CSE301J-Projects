@@ -74,7 +74,7 @@
 | 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link](https://pm0205.github.io/18CSE301J_RA2011003011045/) | 2 | :white_check_mark: |
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
-| 74 |	Mritunjay kumar jha (RA2011003011069) | [Link]() | 2 | |
+| 74 |	Mritunjay kumar jha (RA2011003011069) | [Link](https://mj6725.github.io/18CSE301J_RA2011003011069/) | 2 | :white_check_mark:  |
 | 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
 | 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link](https://adithya-06.github.io/18CSE301J_RA2011003011072/) | 2 |:white_check_mark:|
 | 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
