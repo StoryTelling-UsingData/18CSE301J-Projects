@@ -15,7 +15,7 @@
 | 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
 | 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link]() | 1 | |
-| 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link]() | 1 | |
+| 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link](https://yash623623.github.io/18CSE301J_RA2011003010314/) | 1 | :white_check_mark:|
 | 16 |	MOHAMMAD AUSAF SHAH (RA2011003010322) |  [Link]() | 1 | |
 | 17 |	RITIK RAJ (RA2011003010334) |  [Link]() | 1 | |
 | 18 |	AKASH PRASAD (RA2011003010336) |  [Link]() | 1 | |
