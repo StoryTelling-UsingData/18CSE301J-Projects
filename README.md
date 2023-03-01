@@ -48,7 +48,7 @@
 | 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link](https://adarshjamuaar.github.io/18CSE301J_RA2011028010018/) | 1 |:white_check_mark:|
 | 46 |	SUDHERSAN SRINIVASAN K V (RA2011030010094) | [Link]() | 1 | |
 | 47 |  ANAS AHMED ATHER (RA2011031010006) | [Link](https://anas07860.github.io/18CSE301J_RA2011031010006/) | 1 |:white_check_mark: |
-| 48 |	PRITHVI SINGH KIRAR (RA2011031010023) | [Link]() | 1 | |
+| 48 |	PRITHVI SINGH KIRAR (RA2011031010023) | [Link](https://pritvii.github.io/18CSE301J_RA2011031010023/) | 1 |:white_check_mark: |
 | 49 |	SHARWAN KUMAR (RA2011031010034) | [Link](https://sharwannnn.github.io/18CSE301J-RA2011031010034/) | 1 | :white_check_mark: |
 | 50 |  Kartik jaiswal (RA2011031010060) | [Link](https://kj6219.github.io/18CSE301J_RA2011031010060/) | 1 | :white_check_mark:|
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link](https://shivam9737.github.io/18CSE301J_RA2011031010066/) | 1 |:white_check_mark: |
