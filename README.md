@@ -118,7 +118,7 @@
 | 115 |	PARATE PALKINI AVINASH (RA2011029010061) | [Link]() | 2 | |
 | 116 |	RUDRA VIJAYA VENKATA KRISHNA (RA2011029010063) | [Link]() | 2 | |
 | 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link]() | 2 | |
-| 118 |	SURYA PRAKASH S (RA2011030010137) | [Link]() | 2 | |
+| 118 |	SURYA PRAKASH S (RA2011030010137) | [Link](https://surya2458.github.io/18CSE301J_RA2011030010137/) | 2 |:white_check_mark: |
 | 119 |	PECHETTI SAI VAIBHAV (RA2011030010156) | [Link]() | 2 | |
 | 120 |	Arjun Dev Singla (RA2011031010074) | [Link]() | 2 | |
 | 121 |	Yenduri Sesha Vineeth (RA2011031010129) | [Link]() | 2 | |
