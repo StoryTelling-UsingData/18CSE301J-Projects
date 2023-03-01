@@ -77,7 +77,7 @@
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link](https://mj6725.github.io/18CSE301J_RA2011003011069/) | 2 | :white_check_mark:  |
 | 75 |	Priyanshu Jha (RA2011003011071) | [Link](https://mepriyanshuu.github.io/18CSE301J-RA2011003011071.github.io/) | 2 | :white_check_mark:  |
 | 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link](https://adithya-06.github.io/18CSE301J_RA2011003011072/) | 2 |:white_check_mark:|
-| 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
+| 77 |	Arushi Roy (RA2011003011093) | [Link](https://royarushi.github.io/18CSE301J_RA2011003011093/) | 2 |:white_check_mark: |
 | 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link](https://sarvesh244.github.io/18CSE301J_RA2011003011094/) | 2 | :white_check_mark:  |
 | 79 |	NIVEDITA ANAND (RA2011003011096) | [Link]() | 2 | |
 | 80 |	Rishabh Dharmik (RA2011003011129) | [Link]() | 2 | |
