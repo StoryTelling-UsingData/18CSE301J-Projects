@@ -99,7 +99,7 @@
 | 96 |	Siripi Nikhil Kumar Reddy (RA2011026010435) | [Link](https://nikhil6800.github.io/18CSE301J_RA2011026010435/) | 2 | :white_check_mark: |
 | 97 |	Challa Shashank reddy (RA2011026010441) | [Link]() | 2 | |
 | 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
-| 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link]() | 2 | |
+| 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link](https://shubhamgusain2112.github.io/18CSE301J_RA2011027010048/index.html) | 2 | :white_check_mark: |
 | 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
 | 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link]() | 2 | |
 | 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link](https://ctrlcode9.github.io/18CSE301J_RA2011029010001/) | 2 |:white_check_mark: |
