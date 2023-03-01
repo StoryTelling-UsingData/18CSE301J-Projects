@@ -6,7 +6,7 @@
 | 3 | ABHAY LAL (RA2011003010014	) | [Link](http://abhaylal.tech/18CSE301J-RA2011003010014/) | 1 | :white_check_mark:  |
 | 4 | KEVIN THOMAS KOSHY (	RA2011003010018	) | [Link](https://ktk04.github.io/18CSE301J_RA2011003010018/) | 1 |:white_check_mark:|
 | 5 | SYED SHAHID ILHAN F (RA2011003010048) | [Link](https://syshil.github.io/18CSE301J_RA2011003010048/) | 1 | :white_check_mark:|
-| 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link]() | 1 | |
+| 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link](https://joelsgeorge.github.io/18CSE301J_RA2011003010051/) | 1 |:white_check_mark: |
 | 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link]() | 1 | |
 | 8 |	SHIVAM SINGH (RA2011003010087) | [Link](https://shivam94353.github.io/18CSE301J_RA2011003010087.github.io/) | 1 |:white_check_mark: |
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link](https://sreekantnair10.github.io/18CSE301J_RA2011003010096/) | 1 |:white_check_mark: |
@@ -61,7 +61,7 @@
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
-| 61 |  Vikram Saurav (RA2011003010714) | [Link]() | 2 | |
+| 61 |  Vikram Saurav (RA2011003010714) | [Link](https://vikku911.github.io/18CSC301J_RA2011003010714/) | 2 |:white_check_mark:  |
 | 62 |	SUBRAMANIAN R (RA2011003010727) | [Link](https://sites.google.com/srmist.edu.in/subramanian727/home) | 2 |:white_check_mark: |
 | 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
 | 64 |	Vikash P R (RA2011003010737) | [Link](https://vikashpr.github.io/18CSE301J_RA2011003010737/) | 2 | :white_check_mark: |
@@ -75,7 +75,7 @@
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link](https://pm0205.github.io/18CSE301J_RA2011003011045/) | 2 | :white_check_mark: |
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link](https://mj6725.github.io/18CSE301J_RA2011003011069/) | 2 | :white_check_mark:  |
-| 75 |	Priyanshu Jha (RA2011003011071) | [Link]() | 2 | |
+| 75 |	Priyanshu Jha (RA2011003011071) | [Link](https://mepriyanshuu.github.io/18CSE301J-RA2011003011071.github.io/) | 2 | :white_check_mark:  |
 | 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link](https://adithya-06.github.io/18CSE301J_RA2011003011072/) | 2 |:white_check_mark:|
 | 77 |	Arushi Roy (RA2011003011093) | [Link]() | 2 | |
 | 78 |	Mote Sarvesh Eknath (RA2011003011094) | [Link](https://sarvesh244.github.io/18CSE301J_RA2011003011094/) | 2 | :white_check_mark:  |
@@ -107,7 +107,7 @@
 | 104 |	NAMAN ANAND (RA2011029010013) | [Link](https://naman-anand88.github.io/18CSE301J_RA2011029010013/) | 2 |:white_check_mark: |
 | 105 |	SRINIVAS T.B (RA2011029010015) | [Link](https://notahuman-1-0.github.io/18CSE301J_RA2011029010015/) | 2 | :white_check_mark: |
 | 106 |	KOMMURI SANJEEVA REDDY (RA2011029010017) | [Link]() | 2 | |
-| 107 |	ADITYA PATHAK (RA2011029010020) | [Link]() | 2 | |
+| 107 |	ADITYA PATHAK (RA2011029010020) | [Link](https://aditya-77.github.io/18CSE301J_RA2011029010020/) | 2 | :white_check_mark: |
 | 108 |	KIRTI KALAL (RA2011029010031) | [Link](https://kirtikalal.github.io/18CSE301J_RA2011029010031/) | 2 |:white_check_mark: |
 | 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
 | 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
