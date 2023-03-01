@@ -85,7 +85,7 @@
 | 82 |	Aryan Vats (RA2011003011205) | [Link](https://vaan205.github.io/18CSE301J_RA2011003011205/) | 2 |  :white_check_mark:|
 | 83 |	MELAM SIVA RAM (RA2011003011208) | [Link](https://siva123456789098.github.io/18CSE301J_RA2011003011208/) | 2 | :white_check_mark:|
 | 84 |	Aryaman Adivya Singh (RA2011003011266) | [Link]() | 2 | |
-| 85 |	NITIN KUMAR SRIVASTAVA (RA2011003011322) | [Link]() | 2 | |
+| 85 |	NITIN KUMAR SRIVASTAVA (RA2011003011322) | [Link](https://nit078.github.io/18CSE301J_RA2011003011322/) | 2 |:white_check_mark: |
 | 86 |	SURESH SUTHAR (RA2011003011323) | [Link](https://suresh5189.github.io/18CSE301J_RA2011003011323/) | 2 | :white_check_mark: |
 | 87 |	MARAM SAISWAROOPREDDY (RA2011003011362) | [Link]() | 2 | |
 | 88 |	BALAJI MURUGAN P (RA2011003011404) | [Link](https://balajimurugan2001.github.io/18CSE301J_RA2011003011404/) | 2 | :white_check_mark: |
