@@ -19,7 +19,7 @@
 | 16 |	MOHAMMAD AUSAF SHAH (RA2011003010322) |  [Link](https://ausafshah18.github.io/18CSE301J_RA2011003010322/) | 1 | :white_check_mark: |
 | 17 |	RITIK RAJ (RA2011003010334) |  [Link]() | 1 | |
 | 18 |	AKASH PRASAD (RA2011003010336) |  [Link]() | 1 | |
-| 19 |	JUSTIN JOSEPH (RA2011003010339) | [Link]() | 1 | |
+| 19 |	JUSTIN JOSEPH (RA2011003010339) | [Link](https://jusjos.github.io/18CSE301J_RA2011003010339/) | 1 | :white_check_mark: |
 | 20 |	ABHIPSA SAHOO (RA2011003010346) | [Link]() | 1 | |
 | 21 |	SIMRAH RAFIQI (RA2011003010348) | [Link]( https://12simu.github.io/18CSE301J_RA2011003010348/) | 1 | :white_check_mark: |
 | 22 |	POORVI MITTAL (RA2011003010361) | [Link]() | 1 | |
