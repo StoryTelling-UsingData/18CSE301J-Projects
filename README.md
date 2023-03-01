@@ -102,7 +102,7 @@
 | 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link]() | 2 | |
 | 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
 | 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link]() | 2 | |
-| 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link]() | 2 | |
+| 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link](https://ctrlcode9.github.io/18CSE301J_RA2011029010001/) | 2 |:white_check_mark: |
 | 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link]() | 2 | |
 | 104 |	NAMAN ANAND (RA2011029010013) | [Link](https://naman-anand88.github.io/18CSE301J_RA2011029010013/) | 2 |:white_check_mark: |
 | 105 |	SRINIVAS T.B (RA2011029010015) | [Link]() | 2 | |
