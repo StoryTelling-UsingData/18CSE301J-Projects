@@ -71,7 +71,7 @@
 | 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link](https://manoj-routhu.github.io/18CSC301J_RA2011003011000/) | 2 | :white_check_mark:|
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link](https://prabhav-ra2011003011010.github.io/18CSE301J_RA2011003011010/) | 2 |:white_check_mark: |
 | 70 |	PRAVIEEN A S (RA2011003011015) | [Link](https://sites.google.com/srmist.edu.in/aspcom/home) | 2 | :white_check_mark:|
-| 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
+| 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]( https://sainath3679.github.io/18CSE301J_RA2011003011026/) | 2 |:white_check_mark: |
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link](https://pm0205.github.io/18CSE301J_RA2011003011045/) | 2 | :white_check_mark: |
 | 73 |	Nikhil (RA2011003011058) | [Link]() | 2 | |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link](https://mj6725.github.io/18CSE301J_RA2011003011069/) | 2 | :white_check_mark:  |
