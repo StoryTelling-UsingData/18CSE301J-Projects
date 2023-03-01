@@ -62,7 +62,7 @@
 | 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link]() | 1 |  |
 | 61 |  Vikram Saurav (RA2011003010714) | [Link]() | 2 | |
-| 62 |	SUBRAMANIAN R (RA2011003010727) | [Link]() | 2 | |
+| 62 |	SUBRAMANIAN R (RA2011003010727) | [Link](https://sites.google.com/srmist.edu.in/subramanian727/home) | 2 |:white_check_mark: |
 | 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
 | 64 |	Vikash P R (RA2011003010737) | [Link]() | 2 | |
 | 65 |	M M Sabaresh (RA2011003010781) | [Link]() | 2 | |
