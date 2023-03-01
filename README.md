@@ -66,7 +66,7 @@
 | 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
 | 64 |	Vikash P R (RA2011003010737) | [Link](https://vikashpr.github.io/18CSE301J_RA2011003010737/) | 2 | :white_check_mark: |
 | 65 |	M M Sabaresh (RA2011003010781) | [Link](https://sabaresh1112002.github.io/18CSE301J_RA2011003010781/) | 2 | :white_check_mark: |
-| 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link]() | 2 | |
+| 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link](https://github.com/adarshvardhansingh/18CSE301J_RA2011003010794.git) | 2 | |
 | 67 |	Sidharth D (RA2011003010847) | [Link]() | 2 | |
 | 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link](https://manoj-routhu.github.io/18CSC301J_RA2011003011000/) | 2 | :white_check_mark:|
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link](https://prabhav-ra2011003011010.github.io/18CSE301J_RA2011003011010/) | 2 |:white_check_mark: |
