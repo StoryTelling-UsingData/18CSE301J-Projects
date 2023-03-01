@@ -28,7 +28,7 @@
 | 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link]() | 1 | |
 | 26 |	MEHUL SAINI (RA2011003010389) | [Link](https://mehul389.github.io/18CSE301J_RA2011003010389/) | 1 |:white_check_mark: |
 | 27 |	FAISAL NAZIR (RA2011003010441) | [Link]() | 1 | |
-| 28 |	PRATEEK BAHRANI (RA2011003010447) | [Link]() | 1 | |
+| 28 |	PRATEEK BAHRANI (RA2011003010447) | [Link](https://prateekbahrani.github.io/18CSE301J_RA2011003010447/) | 1 |:white_check_mark:|
 | 29 |	PRAJJWAL DEEP GHOSH (RA2011003010482) | [Link]() | 1 | |
 | 30 |	PRATEEK N (RA2011003010491) | [Link](https://prateek-sn-coder.github.io/18CSE301J_RA2011003010491/) | 1 |:white_check_mark: |
 | 31 |	AYUSH ABHIGYAN (RA2011003010493) | [Link](https://alpacaman14.github.io/18CSE301J_RA2011003010493/) | 1 | :white_check_mark: |
