@@ -32,7 +32,7 @@
 | 29 |	PRAJJWAL DEEP GHOSH (RA2011003010482) | [Link]() | 1 | |
 | 30 |	PRATEEK N (RA2011003010491) | [Link](https://prateek-sn-coder.github.io/18CSE301J_RA2011003010491/) | 1 |:white_check_mark: |
 | 31 |	AYUSH ABHIGYAN (RA2011003010493) | [Link](https://alpacaman14.github.io/18CSE301J_RA2011003010493/) | 1 | :white_check_mark: |
-| 32 |	AFRAZ TANVIR (RA2011003010499) | [Link]() | 1 | |
+| 32 |	AFRAZ TANVIR (RA2011003010499) | [Link](https://a-tanz.github.io/18CSE301J_RA2011003010499/) | 1 | :white_check_mark:|
 | 33 |	SOHAM GHOSH (RA2011003010504) | [Link](https://sohamghosh3101.github.io/18CSE301J_RA2011003010504/) | 1 | :white_check_mark: |
 | 34 |	SUYASH JOSHI (RA2011003010508) | [Link](https://altacc4502.github.io/18CSE301J_RA2011003010508/) | 1 |:white_check_mark: |
 | 35 |	BASIT HASAN (RA2011003010532) | [Link](https://basit9958.github.io/18CSE301J-RA2011003010532/) | 1 | :white_check_mark: |
