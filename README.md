@@ -110,7 +110,7 @@
 | 107 |	ADITYA PATHAK (RA2011029010020) | [Link]() | 2 | |
 | 108 |	KIRTI KALAL (RA2011029010031) | [Link](https://kirtikalal.github.io/18CSE301J_RA2011029010031/) | 2 |:white_check_mark: |
 | 109 |	SHASHANK RADHESHYAM KAMATH (RA2011029010036) | [Link]() | 2 | |
-| 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link]() | 2 | |
+| 110 |	GADHAMSETTI NAGASURYA VENKATASAITEJA (RA2011029010042) | [Link](https://gv3337.github.io/18CSE301J_RA2011029010042/) | 2 | :white_check_mark: |
 | 111 |	MAHEK KAMANI (RA2011029010050) | [Link](https://mahekkamani.github.io/18CSE301J_RA2011029010050/) | 2 | :white_check_mark: |
 | 112 |	Shaleen dubey (RA2011029010054) | [Link](https://shaleendubey.github.io/18CSE301J_RA2011029010054/) | 2 | :white_check_mark: |
 | 113 |	DEBDATTA SINGHA (RA2011029010056) | [Link]( https://debdattasingha.github.io/18CSE301J_RA2011029010056/) | 2 | :white_check_mark:|
