@@ -91,7 +91,7 @@
 | 88 |	BALAJI MURUGAN P (RA2011003011404) | [Link](https://balajimurugan2001.github.io/18CSE301J_RA2011003011404/) | 2 | :white_check_mark: |
 | 89 |	AKASH P S (RA2011026010003) | [Link]() | 2 | |
 | 90 |    ACHAL KAMBOJ (RA2011026010028) | [Link]() | 2 | |
-| 91 |	ANMOL AGARWAL (RA2011026010034) | [Link]() | 2 | |
+| 91 |	ANMOL AGARWAL (RA2011026010034) | [Link](https://anmol0904.github.io/18CSC301J-RA2011026010034/) | 2 | :white_check_mark: |
 | 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link](https://harshjainsk.github.io/18CSE301J_RA2011026010141/) | 2 | :white_check_mark: |
 | 93 |	ANISH TUSHAR PARKHE (RA2011026010285) | [Link]() | 2 | |
 | 94 |	VAARSHITH N (RA2011026010303) | [Link](https://sites.google.com/srmist.edu.in/varshith/home) | 2 |  :white_check_mark: |
