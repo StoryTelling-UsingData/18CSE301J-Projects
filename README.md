@@ -25,7 +25,7 @@
 | 22 |	POORVI MITTAL (RA2011003010361) | [Link]() | 1 | |
 | 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link](https://ayutzo.github.io/18CSE301J_RA2011003010375/) | 1 | :white_check_mark: |
 | 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link](https://swaraliii.github.io/18CSE301J_RA2011003010377/) | 1 | :white_check_mark: |
-| 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link]() | 1 | |
+| 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link](https://noobhacker000111.github.io/18CSE301J_RA2011003010380/) | 1 | :white_check_mark: |
 | 26 |	MEHUL SAINI (RA2011003010389) | [Link](https://mehul389.github.io/18CSE301J_RA2011003010389/) | 1 |:white_check_mark: |
 | 27 |	FAISAL NAZIR (RA2011003010441) | [Link](https://faisalnazir7.github.io/18CSE301J_RA2011003010441/) | 1 | :white_check_mark: |
 | 28 |	PRATEEK BAHRANI (RA2011003010447) | [Link]() | 1 | |
