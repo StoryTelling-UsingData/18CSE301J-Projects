@@ -68,7 +68,7 @@
 | 65 |	M M Sabaresh (RA2011003010781) | [Link]() | 2 | |
 | 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link]() | 2 | |
 | 67 |	Sidharth D (RA2011003010847) | [Link]() | 2 | |
-| 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link]() | 2 | |
+| 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link](https://manoj-routhu.github.io/18CSC301J_RA2011003011000/) | 2 | :white_check_mark:|
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link]() | 2 | |
 | 70 |	PRAVIEEN A S (RA2011003011015) | [Link]() | 2 | |
 | 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]() | 2 | |
