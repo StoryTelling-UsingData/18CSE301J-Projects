@@ -40,7 +40,7 @@
 | 37 |	ANANTHABHOTLA CHANDRA SEKHAR V (RA2011003010591) | [Link](https://chan279.github.io/18CSE301J-RA2011003010591/) | 1 | |
 | 38 |	MANAN KADEL (RA2011026010085) | [Link]() | 1 | |
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link]() | 1 | |
-| 40 |	SARTHAK JAIN (RA2011026010112) | [Link]() | 1 | |
+| 40 |	SARTHAK JAIN (RA2011026010112) | [Link](https://sarthakjain1012.github.io/18CSC301J---RA2011026010112/) | 1 | :white_check_mark: |
 | 41 |	HARIKESH P (RA2011026010193) | [Link](https://harikesh11.github.io/18CSE301J_RA2011026010193/) | 1 |:white_check_mark: |
 | 42 |	KISHORE KHAN S (RA2011026010233) | [Link](https://kishorekhan2003.github.io/18CSE301J_RA2011026010233/) | 1 |:white_check_mark: |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
