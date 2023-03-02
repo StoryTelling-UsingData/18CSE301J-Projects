@@ -100,7 +100,7 @@
 | 97 |	Challa Shashank reddy (RA2011026010441) | [Link](https://shashank053.github.io/18CSE301J_RA2011026010441/) | 2 | :white_check_mark: |
 | 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
 | 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link](https://shubhamgusain2112.github.io/18CSE301J_RA2011027010048/index.html) | 2 | :white_check_mark: |
-| 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
+| 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link](https://utkarshtambe10.github.io/18CSE301J_RA2011027010166/) | 2 |:white_check_mark:|
 | 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link](https://jayeshsc.github.io/18CSE301J_RA2011028010094/) | 2 | :white_check_mark: |
 | 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link](https://ctrlcode9.github.io/18CSE301J_RA2011029010001/) | 2 |:white_check_mark: |
 | 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link](https://rohitx18.github.io/18CSE301J_RA2011029010007/) | 2 |:white_check_mark: |
