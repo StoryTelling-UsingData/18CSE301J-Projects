@@ -13,14 +13,14 @@
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link](https://nikhilburdak.github.io/18CSE301J_RA2011003010209/) | 1 | :white_check_mark: |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link](https://anishkakesaria.github.io/18CSE301J_RA2011003010240/) | 1 | :white_check_mark: |
 | 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
-| 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
+| 13 |	ADITYA S (RA2011003010252) |  [Link](https://adityas2002.github.io/18CSE301J_RA2011003010252/) | 1 |  :white_check_mark: |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link](https://arydutta.github.io/18CSE301J_RA2011003010290/) | 1 | :white_check_mark: |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link](https://yash623623.github.io/18CSE301J_RA2011003010314/) | 1 | :white_check_mark:|
 | 16 |	MOHAMMAD AUSAF SHAH (RA2011003010322) |  [Link](https://ausafshah18.github.io/18CSE301J_RA2011003010322/) | 1 | :white_check_mark: |
 | 17 |	RITIK RAJ (RA2011003010334) |  [Link](https://ritikraj018.github.io/18CSE301J_RA2011003010334/) | 1 | :white_check_mark: |
 | 18 |	AKASH PRASAD (RA2011003010336) |  [Link](https://akashprasad7631.github.io/18CSE301J-RA2011003010336.github.io/) | 1 | :white_check_mark:|
 | 19 |	JUSTIN JOSEPH (RA2011003010339) | [Link](https://jusjos.github.io/18CSE301J_RA2011003010339/) | 1 | :white_check_mark: |
-| 20 |	ABHIPSA SAHOO (RA2011003010346) | [Link]() | 1 | |
+| 20 |	ABHIPSA SAHOO (RA2011003010346) | [Link](https://sahooabhipsa10.github.io/18CSE301J_RA2011003010346/) | 1 | :white_check_mark: |
 | 21 |	SIMRAH RAFIQI (RA2011003010348) | [Link]( https://12simu.github.io/18CSE301J_RA2011003010348/) | 1 | :white_check_mark: |
 | 22 |	POORVI MITTAL (RA2011003010361) | [Link]() | 1 | |
 | 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link](https://ayutzo.github.io/18CSE301J_RA2011003010375/) | 1 | :white_check_mark: |
@@ -40,7 +40,7 @@
 | 37 |	ANANTHABHOTLA CHANDRA SEKHAR V (RA2011003010591) | [Link](https://chan279.github.io/18CSE301J-RA2011003010591/) | 1 | |
 | 38 |	MANAN KADEL (RA2011026010085) | [Link]() | 1 | |
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link]() | 1 | |
-| 40 |	SARTHAK JAIN (RA2011026010112) | [Link]() | 1 | |
+| 40 |	SARTHAK JAIN (RA2011026010112) | [Link](https://sarthakjain1012.github.io/18CSC301J---RA2011026010112/) | 1 | :white_check_mark: |
 | 41 |	HARIKESH P (RA2011026010193) | [Link](https://harikesh11.github.io/18CSE301J_RA2011026010193/) | 1 |:white_check_mark: |
 | 42 |	KISHORE KHAN S (RA2011026010233) | [Link](https://kishorekhan2003.github.io/18CSE301J_RA2011026010233/) | 1 |:white_check_mark: |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
@@ -55,18 +55,18 @@
 | 52 |	Vanshit Rawat (RA2011031010067) | [Link](https://vanshitrawat.github.io/18CSE301J_RA2011031010067/) | 1 |:white_check_mark: |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
-| 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
+| 55 |	ANJANAY KHARE (RA2011032010007) | [Link](https://anjanaykhare.github.io/18CSE301J_RA2011032010007/) | 1 | :white_check_mark: |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link](https://saumyasah.github.io/18CSE301J_RA2011032010013/) | 1 |:white_check_mark: |
 | 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
 | 58 |	Siddharth Choudhar (RA2011032010067)	 | [Link]() | 1 | |
-| 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link]() | 1 | |
+| 59 |	SIDDHARTH MRIGESH PANDEY (RA2011033010026) | [Link](https://penspencil.github.io/18CSE301J_RA2011033010026/) | 1 | :white_check_mark: |
 | 60 |	ADARSH KUMAR SINGH (RA2011033010034) | [Link](https://034adarsh.github.io/18CSE301J_RA2011033010034/) | 1 | :white_check_mark: |
 | 61 |  Vikram Saurav (RA2011003010714) | [Link](https://vikku911.github.io/18CSC301J_RA2011003010714/) | 2 |:white_check_mark:  |
 | 62 |	SUBRAMANIAN R (RA2011003010727) | [Link](https://sites.google.com/srmist.edu.in/subramanian727/home) | 2 |:white_check_mark: |
 | 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
 | 64 |	Vikash P R (RA2011003010737) | [Link](https://vikashpr.github.io/18CSE301J_RA2011003010737/) | 2 | :white_check_mark: |
 | 65 |	M M Sabaresh (RA2011003010781) | [Link](https://sabaresh1112002.github.io/18CSE301J_RA2011003010781/) | 2 | :white_check_mark: |
-| 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link]() | 2 | |
+| 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link](https://adarshvardhansingh.github.io/18CSE301J_RA2011003010794/) | 2 |:white_check_mark:|
 | 67 |	Sidharth D (RA2011003010847) | [Link](https://nfinyte.github.io/18CSE301J_RA2011003010847/) | 2 | :white_check_mark: |
 | 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link](https://manoj-routhu.github.io/18CSC301J_RA2011003011000/) | 2 | :white_check_mark:|
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link](https://prabhav-ra2011003011010.github.io/18CSE301J_RA2011003011010/) | 2 |:white_check_mark: |
@@ -100,7 +100,7 @@
 | 97 |	Challa Shashank reddy (RA2011026010441) | [Link](https://shashank053.github.io/18CSE301J_RA2011026010441/) | 2 | :white_check_mark: |
 | 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
 | 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link](https://shubhamgusain2112.github.io/18CSE301J_RA2011027010048/index.html) | 2 | :white_check_mark: |
-| 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
+| 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link](https://utkarshtambe10.github.io/18CSE301J_RA2011027010166/) | 2 |:white_check_mark:|
 | 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link](https://jayeshsc.github.io/18CSE301J_RA2011028010094/) | 2 | :white_check_mark: |
 | 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link](https://ctrlcode9.github.io/18CSE301J_RA2011029010001/) | 2 |:white_check_mark: |
 | 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link](https://rohitx18.github.io/18CSE301J_RA2011029010007/) | 2 |:white_check_mark: |
