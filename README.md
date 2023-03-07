@@ -114,7 +114,7 @@
 | 111 |	MAHEK KAMANI (RA2011029010050) | [Link](https://mahekkamani.github.io/18CSE301J_RA2011029010050/) | 2 | :white_check_mark: |
 | 112 |	Shaleen dubey (RA2011029010054) | [Link](https://shaleendubey.github.io/18CSE301J_RA2011029010054/) | 2 | :white_check_mark: |
 | 113 |	DEBDATTA SINGHA (RA2011029010056) | [Link]( https://debdattasingha.github.io/18CSE301J_RA2011029010056/) | 2 | :white_check_mark:|
-| 114 |	UDARAPU CHANDU (RA2011029010058) | [Link]() | 2 | |
+| 114 |	UDARAPU CHANDU (RA2011029010058) | [Link](https://udarapuchandu.github.io/18CSE301J_RA2011029010058/) | 2 | :white_check_mark: |
 | 115 |	PARATE PALKINI AVINASH (RA2011029010061) | [Link](https://palkini.github.io/18CSE301J_RA2011029010061/) | 2 | :white_check_mark: |
 | 116 |	RUDRA VIJAYA VENKATA KRISHNA (RA2011029010063) | [Link](https://rvvkrishna.github.io/18CSE301J_RA2011029010063/) | 2 | :white_check_mark: |
 | 117 |	SRI KRISHNA SIDDHARDHA VARMA K S (RA2011030010003) | [Link](https://siddhardha123.github.io/18CSE301J_RA2011030010003/) | 2 | :white_check_mark: |
