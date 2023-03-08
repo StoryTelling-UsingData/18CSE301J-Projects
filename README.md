@@ -121,4 +121,4 @@
 | 118 |	SURYA PRAKASH S (RA2011030010137) | [Link](https://surya2458.github.io/18CSE301J_RA2011030010137/) | 2 |:white_check_mark: |
 | 119 |	PECHETTI SAI VAIBHAV (RA2011030010156) | [Link](https://saivaibhav7.github.io/18CSE301J_RA2011030010156/) | 2 | :white_check_mark: |
 | 120 |	Arjun Dev Singla (RA2011031010074) | [Link](https://arjundevsingla.github.io/18CSE301J_RA2011031010074/) | 2 | :white_check_mark: |
-| 121 |	Yenduri Sesha Vineeth (RA2011031010129) | [Link]() | 2 | |
+| 121 |	Yenduri Sesha Vineeth (RA2011031010129) | [Link](https://sesha-vineeth-1.github.io/18CSE301J_RA2011031010129/) | 2 | :white_check_mark: |
