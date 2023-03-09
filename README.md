@@ -53,7 +53,7 @@
 | 50 |  Kartik jaiswal (RA2011031010060) | [Link](https://kj6219.github.io/18CSE301J_RA2011031010060/) | 1 | :white_check_mark:|
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link](https://shivam9737.github.io/18CSE301J_RA2011031010066/) | 1 |:white_check_mark: |
 | 52 |	Vanshit Rawat (RA2011031010067) | [Link](https://vanshitrawat.github.io/18CSE301J_RA2011031010067/) | 1 |:white_check_mark: |
-| 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
+| 53 |	AMAN VERMA (RA2011032010001) | [Link](https://aman070902.github.io/Info.Vizulization/Info.%20Viz.%20Assignment/Frontend/index.html) | 1 |:white_check_mark: |
 | 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link](https://anjanaykhare.github.io/18CSE301J_RA2011032010007/) | 1 | :white_check_mark: |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link](https://saumyasah.github.io/18CSE301J_RA2011032010013/) | 1 |:white_check_mark: |
