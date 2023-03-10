@@ -103,7 +103,7 @@
 | 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link](https://utkarshtambe10.github.io/18CSE301J_RA2011027010166/) | 2 |:white_check_mark:|
 | 101 |	JAYESH S CHAUDHARI (RA2011028010094) | [Link](https://jayeshsc.github.io/18CSE301J_RA2011028010094/) | 2 | :white_check_mark: |
 | 102 |	SRIJAN CHAKRAVORTY (RA2011029010001) | [Link](https://ctrlcode9.github.io/18CSE301J_RA2011029010001/) | 2 |:white_check_mark: |
-| 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link](https://rohitx18.github.io/18CSE301J_RA2011029010007/) | 2 |:white_check_mark: |
+| 103 |	NAGABATHULA ROHIT (RA2011029010007) | [Link](https://rohitx18.github.io/18CSE301J_RA2011029010007/) | 2 | :white_check_mark: |
 | 104 |	NAMAN ANAND (RA2011029010013) | [Link](https://naman-anand88.github.io/18CSE301J_RA2011029010013/) | 2 |:white_check_mark: |
 | 105 |	SRINIVAS T.B (RA2011029010015) | [Link](https://notahuman-1-0.github.io/18CSE301J_RA2011029010015/) | 2 | :white_check_mark: |
 | 106 |	KOMMURI SANJEEVA REDDY (RA2011029010017) | [Link](https://kommurisanjeevareddy.github.io/18CSE301J_RA2011029010017/) | 2 | :white_check_mark: |
