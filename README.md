@@ -37,7 +37,7 @@
 | 34 |	SUYASH JOSHI (RA2011003010508) | [Link](https://altacc4502.github.io/18CSE301J_RA2011003010508/) | 1 |:white_check_mark: |
 | 35 |	BASIT HASAN (RA2011003010532) | [Link](https://basit9958.github.io/18CSE301J-RA2011003010532/) | 1 | :white_check_mark: |
 | 36 |	NIPUN CHAURASIA (RA2011003010536) | [Link](https://nc1135.github.io/18CSE301J_RA2011003010536/) | 1 |:white_check_mark:|
-| 37 |	ANANTHABHOTLA CHANDRA SEKHAR V (RA2011003010591) | [Link](https://chan279.github.io/18CSE301J-RA2011003010591/) | 1 | |
+| 37 |	ANANTHABHOTLA CHANDRA SEKHAR V (RA2011003010591) | [Link](https://chan279.github.io/index.html) | 1 | |
 | 38 |	MANAN KADEL (RA2011026010085) | [Link]() | 1 | |
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link](https://1234aditya1234.github.io/18CSE301J_RA2011026010105/) | 1 | :white_check_mark: |
 | 40 |	SARTHAK JAIN (RA2011026010112) | [Link](https://sarthakjain1012.github.io/18CSC301J---RA2011026010112/) | 1 | :white_check_mark: |
