@@ -22,7 +22,7 @@
 | 19 |	JUSTIN JOSEPH (RA2011003010339) | [Link](https://jusjos.github.io/18CSE301J_RA2011003010339/) | 1 | :white_check_mark: |
 | 20 |	ABHIPSA SAHOO (RA2011003010346) | [Link](https://sahooabhipsa10.github.io/18CSE301J_RA2011003010346/) | 1 | :white_check_mark: |
 | 21 |	SIMRAH RAFIQI (RA2011003010348) | [Link]( https://12simu.github.io/18CSE301J_RA2011003010348/) | 1 | :white_check_mark: |
-| 22 |	POORVI MITTAL (RA2011003010361) | [Link]() | 1 | |
+| 22 |	POORVI MITTAL (RA2011003010361) | [Link]( https://probably-poorvi.github.io/18CSE301J_RA2011003010361/ ) | 1 | :white_check_mark: |
 | 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link](https://ayutzo.github.io/18CSE301J_RA2011003010375/) | 1 | :white_check_mark: |
 | 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link](https://swaraliii.github.io/18CSE301J_RA2011003010377/) | 1 | :white_check_mark: |
 | 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link](https://noobhacker000111.github.io/18CSE301J_RA2011003010380/) | 1 | :white_check_mark: |
