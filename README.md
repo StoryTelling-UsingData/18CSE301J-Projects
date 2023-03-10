@@ -7,7 +7,7 @@
 | 4 | KEVIN THOMAS KOSHY (	RA2011003010018	) | [Link](https://ktk04.github.io/18CSE301J_RA2011003010018/) | 1 |:white_check_mark:|
 | 5 | SYED SHAHID ILHAN F (RA2011003010048) | [Link](https://syshil.github.io/18CSE301J_RA2011003010048/) | 1 | :white_check_mark:|
 | 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link](https://joelsgeorge.github.io/18CSE301J_RA2011003010051/) | 1 |:white_check_mark: |
-| 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link]() | 1 | |
+| 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link](https://debayan-creator.github.io/18CSE301J_RA2011003010059/) | 1 |:white_check_mark:|
 | 8 |	SHIVAM SINGH (RA2011003010087) | [Link](https://shivam94353.github.io/18CSE301J_RA2011003010087.github.io/) | 1 |:white_check_mark: |
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link](https://sreekantnair10.github.io/18CSE301J_RA2011003010096/) | 1 |:white_check_mark: |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link](https://nikhilburdak.github.io/18CSE301J_RA2011003010209/) | 1 | :white_check_mark: |
