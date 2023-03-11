@@ -73,7 +73,7 @@
 | 70 |	PRAVIEEN A S (RA2011003011015) | [Link](https://sites.google.com/srmist.edu.in/aspcom/home) | 2 | :white_check_mark:|
 | 71 |	NITTURU SAI NATH REDDY (RA2011003011026) | [Link]( https://sainath3679.github.io/18CSE301J_RA2011003011026/) | 2 |:white_check_mark: |
 | 72 |	Pothureddy Vijay Manohar (RA2011003011045) | [Link](https://pm0205.github.io/18CSE301J_RA2011003011045/) | 2 | :white_check_mark: |
-| 73 |	Nikhil (RA2011003011058) | [Link](https://nikhil-kalra.github.io/18CSE301J-RA2011003011058/) | 2 | :white_check_mark: |
+| 73 |	Nikhil (RA2011003011058) | [Link](https://nikhil-kalra-iv---final--nik-3try4j.streamlit.app/) | 2 | :white_check_mark: |
 | 74 |	Mritunjay kumar jha (RA2011003011069) | [Link](https://mj6725.github.io/18CSE301J_RA2011003011069/) | 2 | :white_check_mark:  |
 | 75 |	Priyanshu Jha (RA2011003011071) | [Link](https://mepriyanshuu.github.io/18CSE301J-RA2011003011071.github.io/) | 2 | :white_check_mark:  |
 | 76 | Adithya Dutt Kambhampati (RA2011003011072) | [Link](https://adithya-06.github.io/18CSE301J_RA2011003011072/) | 2 |:white_check_mark:|
