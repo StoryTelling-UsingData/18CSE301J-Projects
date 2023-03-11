@@ -2,7 +2,7 @@
 | S.No. | Name (Roll No) | Link | Batch | Updated |
 | :---: | :---: | :---: |:---: | :---: |
 | 1 | MOHD AMAAN (RA2011003010003) | [Link](https://amaan7866.github.io/18CSE301J-RA2011003010003/) | 1 | :white_check_mark: |
-| 2 | AYUSHYA JAIN (RA2011003010010) | [Link]() | 1 | |
+| 2 | AYUSHYA JAIN (RA2011003010010) | [Link](https://torque44.github.io/18CSE301J-RA2011003010010/) | 1 |:white_check_mark: |
 | 3 | ABHAY LAL (RA2011003010014	) | [Link](http://abhaylal.tech/18CSE301J-RA2011003010014/) | 1 | :white_check_mark:  |
 | 4 | KEVIN THOMAS KOSHY (	RA2011003010018	) | [Link](https://ktk04.github.io/18CSE301J_RA2011003010018/) | 1 |:white_check_mark:|
 | 5 | SYED SHAHID ILHAN F (RA2011003010048) | [Link](https://syshil.github.io/18CSE301J_RA2011003010048/) | 1 | :white_check_mark:|
