@@ -1,10 +1,17 @@
 # 18CSE301J-Projects
-This repository contains all the projects link for 18CSE301J Information Visualisation course.
 
-<div align="center">
+[![GitHub contributors](https://img.shields.io/github/contributors/VikashPR/18CSE301J-Projects.svg)](https://github.com/VikashPR/18CSE301J-Projects/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/VikashPR/18CSE301J-Projects.svg)](https://github.com/VikashPR/18CSE301J-Projects/issues)
+[![GitHub forks](https://img.shields.io/github/forks/VikashPR/18CSE301J-Projects.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/VikashPR/18CSE301J-Projects/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/VikashPR/18CSE301J-Projects.svg?style=social&label=Star&maxAge=2592000)](https://github.com/VikashPR/18CSE301J-Projects/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Home](https://github.com/VikashPR/18CSE301J-Projects) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Projects](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Projects.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Presentations](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Presentations.md) &nbsp;&nbsp;|&nbsp;&nbsp;
-  
-</div>
+Welcome to the largest open source collaborative project for our course ever!
+
+## Table of Contents
+
+- [Home](https://github.com/VikashPR/18CSE301J-Projects)
+- [Projects](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Projects.md)
+- [Presentations](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Presentations.md)
+
+![data-visualization](https://user-images.githubusercontent.com/69889418/226487522-bec3c983-429a-420b-830c-3f37e26a4cec.jpg)
