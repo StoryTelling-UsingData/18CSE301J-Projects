@@ -1,4 +1,7 @@
-# 18CSE301J-Projects
+# 18CSE301J-Projects 
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
+
 
 [![GitHub contributors](https://img.shields.io/github/contributors/VikashPR/18CSE301J-Projects.svg)](https://github.com/VikashPR/18CSE301J-Projects/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/VikashPR/18CSE301J-Projects.svg)](https://github.com/VikashPR/18CSE301J-Projects/issues)
