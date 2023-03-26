@@ -45,6 +45,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "jayeshsc",
+      "name": "Jayesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81688373?v=4",
+      "profile": "https://github.com/jayeshsc",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
