@@ -65,6 +65,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "saumyasah",
+      "name": "Saumya Sah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74109566?v=4",
+      "profile": "https://github.com/saumyasah",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
