@@ -1,4 +1,7 @@
 # 18CSE301J-Projects 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
 
@@ -22,6 +25,20 @@ Welcome to the largest open source collaborative project for our course ever!
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aditya-77"><img src="https://avatars.githubusercontent.com/u/72652285?v=4?s=100" width="100px;" alt="Aditya-77"/><br /><sub><b>Aditya-77</b></sub></a><br /><a href="#content-Aditya-77" title="Content">🖋</a> <a href="#example-Aditya-77" title="Examples">💡</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
