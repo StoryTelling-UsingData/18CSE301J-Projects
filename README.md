@@ -21,6 +21,7 @@ Welcome to the largest open source collaborative project for our course ever!
 ![data-visualization](https://user-images.githubusercontent.com/69889418/226487522-bec3c983-429a-420b-830c-3f37e26a4cec.jpg)
 
 ## Contributors
+Thanks to the following contributors for their contributions to this Data Visualization gallery
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
