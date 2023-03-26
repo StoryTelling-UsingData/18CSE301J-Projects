@@ -35,6 +35,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sarvesh244"><img src="https://avatars.githubusercontent.com/u/78017884?v=4?s=100" width="100px;" alt="Sarvesh"/><br /><sub><b>Sarvesh</b></sub></a><br /><a href="#content-Sarvesh244" title="Content">🖋</a> <a href="#example-Sarvesh244" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jayeshsc"><img src="https://avatars.githubusercontent.com/u/81688373?v=4?s=100" width="100px;" alt="Jayesh"/><br /><sub><b>Jayesh</b></sub></a><br /><a href="#content-jayeshsc" title="Content">🖋</a> <a href="#example-jayeshsc" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ar4626"><img src="https://avatars.githubusercontent.com/u/83133904?v=4?s=100" width="100px;" alt="Ankit Raj"/><br /><sub><b>Ankit Raj</b></sub></a><br /><a href="#content-ar4626" title="Content">🖋</a> <a href="#example-ar4626" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kamathshashank1111"><img src="https://avatars.githubusercontent.com/u/71062791?s=96&v=4" width="100px;" alt="Shashank Kamath"/><br /><sub><b>Shashank Kamath</b></sub></a><br /><a href="#content-kamathshashank1111" title="Content">🖋</a> <a href="#example-kamathshashank1111" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
