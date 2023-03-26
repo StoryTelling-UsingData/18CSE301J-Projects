@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -32,6 +32,7 @@ Welcome to the largest open source collaborative project for our course ever!
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aditya-77"><img src="https://avatars.githubusercontent.com/u/72652285?v=4?s=100" width="100px;" alt="Aditya-77"/><br /><sub><b>Aditya-77</b></sub></a><br /><a href="#content-Aditya-77" title="Content">🖋</a> <a href="#example-Aditya-77" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/034adarsh"><img src="https://avatars.githubusercontent.com/u/95336274?v=4?s=100" width="100px;" alt="Adarsh Kumar Singh"/><br /><sub><b>Adarsh Kumar Singh</b></sub></a><br /><a href="#content-034adarsh" title="Content">🖋</a> <a href="#example-034adarsh" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://bit.ly/3kzu5cy"><img src="https://avatars.githubusercontent.com/u/89902664?v=4?s=100" width="100px;" alt="Utkarsh Yashwant Tambe"/><br /><sub><b>Utkarsh Yashwant Tambe</b></sub></a><br /><a href="#example-utkarshtambe10" title="Examples">💡</a> <a href="#maintenance-utkarshtambe10" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>

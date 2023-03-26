@@ -25,6 +25,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "utkarshtambe10",
+      "name": "Utkarsh Yashwant Tambe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89902664?v=4",
+      "profile": "http://bit.ly/3kzu5cy",
+      "contributions": [
+        "example",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
