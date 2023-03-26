@@ -10,6 +10,6 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    3   |  | Indian Key Commodities Retail | [Link](https://docs.google.com/presentation/d/1yBEqpC5P16UUARN-U-xrGpXMWH0hpxc-/edit?usp=sharing&ouid=117602231671529784166&rtpof=true&sd=true)   |
 |    4   | JAYESH S CHAUDHARI , ANISH PARKHE |      Tourism in India         | [Link](https://docs.google.com/presentation/d/12cnUy9inS7zWsEtCQg8uhtkrg_slWaQw0OkmtDY-43U/edit?usp=sharing)   |
 |    5   | Aman Verma </br> Naveed Hyder </br> Ankit Raj | Mapping The Skies  | [Link](https://www.canva.com/design/DAFeOT44q8s/8toaWVT3xiRW3vNOTK7ciQ/edit?utm_content=DAFeOT44q8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |
-|    6   |  |               | [Link]()   |
+|    6   | SRIJAN CHAKRAVORTY(RA2011029010001) </br> ROHIT N.(RA2011029010007) </br> NAMAN ANAND(RA2011029010013) |  Analysis of state-wise production of food grains and major non-food grains crops in India. | [Link](https://docs.google.com/presentation/d/1-Vfr5t_cM3XmgBTLTXRptGxdr_hxovTR/edit?usp=sharing&ouid=111489925083220166017&rtpof=true&sd=true)   |
 |    7   |  |               | [Link]()   |
 
