@@ -12,4 +12,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    5   | Aman Verma </br> Naveed Hyder </br> Ankit Raj </br> Saumya Sah | Mapping The Skies  | [Link](https://www.canva.com/design/DAFeOT44q8s/8toaWVT3xiRW3vNOTK7ciQ/edit?utm_content=DAFeOT44q8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |
 |    6   |  |               | [Link]()   |
 |    7   |  |               | [Link]()   |
-
+|    8   | Prateek </br> Ayush Abhigyan </br> Afraz Tanvir </br> Soham Ghosh </br> Suyash Joshi </br> Basit Hasan | Rainfall Triggered Landslides | [Link](https://www.canva.com/design/DAFeT1wA_7A/gNZdCZlUlakFzr17V58i1g/view?utm_content=DAFeT1wA_7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |
