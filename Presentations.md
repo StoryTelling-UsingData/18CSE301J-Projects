@@ -10,6 +10,6 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    3   | M.M.Sabaresh </br> Adarsh Vardhan Singh </br>  Adithya Dutt Kambhampati </br> Sarvesh Eknath Mote </br> Mritunjay Kumar jha </br> Priyanshu jha  | Indian Key Commodities Retail | [Link](https://docs.google.com/presentation/d/1yBEqpC5P16UUARN-U-xrGpXMWH0hpxc-/edit?usp=sharing&ouid=117602231671529784166&rtpof=true&sd=true)   |
 |    4   | JAYESH S CHAUDHARI , ANISH PARKHE |      Tourism in India         | [Link](https://docs.google.com/presentation/d/12cnUy9inS7zWsEtCQg8uhtkrg_slWaQw0OkmtDY-43U/edit?usp=sharing)   |
 |    5   | Aman Verma </br> Naveed Hyder </br> Ankit Raj </br> Saumya Sah | Mapping The Skies  | [Link](https://www.canva.com/design/DAFeOT44q8s/8toaWVT3xiRW3vNOTK7ciQ/edit?utm_content=DAFeOT44q8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |
-|    6   |  |               | [Link]()   |
+|    6   | VIKRAM SAURAV <br/> SUBRAMANIAN R <br/> AADHITYA R <br/> VIKASH PR  | Campus Expenditure and Sustainability | [Link](https://www.canva.com/design/DAFeUE8f4VM/M8MMGep0trDwPb7Cwx0woA/view)   |
 |    7   |  |               | [Link]()   |
 
