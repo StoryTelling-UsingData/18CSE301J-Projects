@@ -15,6 +15,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "034adarsh",
+      "name": "Adarsh Kumar Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95336274?v=4",
+      "profile": "https://github.com/034adarsh",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
