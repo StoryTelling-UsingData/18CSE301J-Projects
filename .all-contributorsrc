@@ -215,6 +215,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "12simu",
+      "name": "Simrah Rafiqi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99986940?v=4",
+      "profile": "https://github.com/12simu",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
