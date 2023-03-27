@@ -165,6 +165,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "A-Tanz",
+      "name": "Afraz Tanvir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96045452?v=4",
+      "profile": "https://github.com/A-Tanz",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
