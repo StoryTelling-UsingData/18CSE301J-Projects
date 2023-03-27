@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -52,6 +52,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/A-Tanz"><img src="https://avatars.githubusercontent.com/u/96045452?v=4?s=100" width="100px;" alt="Afraz Tanvir"/><br /><sub><b>Afraz Tanvir</b></sub></a><br /><a href="#content-A-Tanz" title="Content">🖋</a> <a href="#example-A-Tanz" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/suyashjoshi404"><img src="https://avatars.githubusercontent.com/u/96440634?v=4?s=100" width="100px;" alt="Suyash Joshi"/><br /><sub><b>Suyash Joshi</b></sub></a><br /><a href="#content-suyashjoshi404" title="Content">🖋</a> <a href="#example-suyashjoshi404" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AlpacaMan14"><img src="https://avatars.githubusercontent.com/u/72686848?v=4?s=100" width="100px;" alt="Ayush Abhigyan"/><br /><sub><b>Ayush Abhigyan</b></sub></a><br /><a href="#content-AlpacaMan14" title="Content">🖋</a> <a href="#example-AlpacaMan14" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SohamGhosh3101"><img src="https://avatars.githubusercontent.com/u/85571107?v=4?s=100" width="100px;" alt="Soham "/><br /><sub><b>Soham </b></sub></a><br /><a href="#content-SohamGhosh3101" title="Content">🖋</a> <a href="#example-SohamGhosh3101" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
