@@ -185,6 +185,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "AlpacaMan14",
+      "name": "Ayush Abhigyan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72686848?v=4",
+      "profile": "https://github.com/AlpacaMan14",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
