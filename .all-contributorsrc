@@ -87,7 +87,7 @@
       ]
     },
     {
-       "login": "kamathshashank1111",
+      "login": "kamathshashank1111",
       "name": "Shashank Kamath",
       "avatar_url": "https://avatars.githubusercontent.com/u/71062791?v=4",
       "profile": "https://github.com/kamathshashank1111",
@@ -101,6 +101,16 @@
       "name": "Palkini Parate",
       "avatar_url": "https://avatars.githubusercontent.com/u/100483902?v=4",
       "profile": "https://github.com/palkini",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "ShaleenDubey",
+      "name": "ShaleenDubey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77484129?v=4",
+      "profile": "https://github.com/ShaleenDubey",
       "contributions": [
         "content",
         "example"
