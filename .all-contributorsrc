@@ -175,6 +175,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "suyashjoshi404",
+      "name": "Suyash Joshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96440634?v=4",
+      "profile": "https://github.com/suyashjoshi404",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
