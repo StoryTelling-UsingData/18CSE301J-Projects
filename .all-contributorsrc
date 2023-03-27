@@ -116,6 +116,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "1234Aditya1234",
+      "name": "Aditya Kapoor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34628769?v=4",
+      "profile": "https://github.com/1234Aditya1234",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
