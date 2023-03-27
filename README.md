@@ -39,6 +39,7 @@ Thanks to the following contributors for their contributions to this Data Visual
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MahekKamani"><img src="https://avatars.githubusercontent.com/u/72488411?v=4?s=100" width="100px;" alt="Mahek Kamani"/><br /><sub><b>Mahek Kamani</b></sub></a><br /><a href="#content-MahekKamani" title="Content">🖋</a> <a href="#example-MahekKamani" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kamathshashank1111"><img src="https://avatars.githubusercontent.com/u/71062791?v=4?s=100" width="100px;" alt="Shashank Kamath"/><br /><sub><b>Shashank Kamath</b></sub></a><br /><a href="#content-kamathshashank1111" title="Content">🖋</a> <a href="#example-kamathshashank1111" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/palkini"><img src="https://avatars.githubusercontent.com/u/100483902?v=4?s=100" width="100px;" alt="Palkini Parate"/><br /><sub><b>Palkini Parate</b></sub></a><br /><a href="#content-palkini" title="Content">🖋</a> <a href="#example-palkini" title="Examples">💡</a></td>
     </tr>
   </tbody>
