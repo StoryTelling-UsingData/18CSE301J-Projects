@@ -126,6 +126,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "vikku911",
+      "name": "Vikram Saurav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71919075?v=4",
+      "profile": "https://github.com/vikku911",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
