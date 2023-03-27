@@ -85,6 +85,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "palkini",
+      "name": "Palkini Parate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100483902?v=4",
+      "profile": "https://github.com/palkini",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
