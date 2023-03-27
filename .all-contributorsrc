@@ -146,6 +146,15 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "aadithya",
+      "name": "aadithya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/519138?v=4",
+      "profile": "http://aadithya.in",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
