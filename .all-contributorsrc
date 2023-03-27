@@ -225,6 +225,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Probably-Poorvi",
+      "name": "Poorvi Mittal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117970154?v=4",
+      "profile": "https://github.com/Probably-Poorvi",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
