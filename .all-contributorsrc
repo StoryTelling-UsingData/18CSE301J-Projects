@@ -36,6 +36,86 @@
         "maintenance",
         "content"
       ]
+    },
+    {
+      "login": "Sarvesh244",
+      "name": "Sarvesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78017884?v=4",
+      "profile": "https://github.com/Sarvesh244",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "jayeshsc",
+      "name": "Jayesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81688373?v=4",
+      "profile": "https://github.com/jayeshsc",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "ar4626",
+      "name": "Ankit Raj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83133904?v=4",
+      "profile": "https://github.com/ar4626",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "saumyasah",
+      "name": "Saumya Sah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74109566?v=4",
+      "profile": "https://github.com/saumyasah",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "MahekKamani",
+      "name": "Mahek Kamani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72488411?v=4",
+      "profile": "https://github.com/MahekKamani",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "kamathshashank1111",
+      "name": "Shashank Kamath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71062791?v=4",
+      "profile": "https://github.com/kamathshashank1111",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "palkini",
+      "name": "Palkini Parate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100483902?v=4",
+      "profile": "https://github.com/palkini",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "ShaleenDubey",
+      "name": "ShaleenDubey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77484129?v=4",
+      "profile": "https://github.com/ShaleenDubey",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
