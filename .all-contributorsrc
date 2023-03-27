@@ -205,6 +205,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Prateek-sn-coder",
+      "name": "PRATEEK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76763573?v=4",
+      "profile": "https://github.com/Prateek-sn-coder",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
