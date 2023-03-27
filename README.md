@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -42,6 +42,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kamathshashank1111"><img src="https://avatars.githubusercontent.com/u/71062791?v=4?s=100" width="100px;" alt="Shashank Kamath"/><br /><sub><b>Shashank Kamath</b></sub></a><br /><a href="#content-kamathshashank1111" title="Content">🖋</a> <a href="#example-kamathshashank1111" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/palkini"><img src="https://avatars.githubusercontent.com/u/100483902?v=4?s=100" width="100px;" alt="Palkini Parate"/><br /><sub><b>Palkini Parate</b></sub></a><br /><a href="#content-palkini" title="Content">🖋</a> <a href="#example-palkini" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShaleenDubey"><img src="https://avatars.githubusercontent.com/u/77484129?v=4?s=100" width="100px;" alt="ShaleenDubey"/><br /><sub><b>ShaleenDubey</b></sub></a><br /><a href="#content-ShaleenDubey" title="Content">🖋</a> <a href="#example-ShaleenDubey" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/1234Aditya1234"><img src="https://avatars.githubusercontent.com/u/34628769?v=4?s=100" width="100px;" alt="Aditya Kapoor"/><br /><sub><b>Aditya Kapoor</b></sub></a><br /><a href="#content-1234Aditya1234" title="Content">🖋</a> <a href="#example-1234Aditya1234" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
