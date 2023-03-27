@@ -85,6 +85,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "kamathshashank1111",
+      "name": "Shashank Kamath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71062791?v=4",
+      "profile": "https://github.com/kamathshashank1111",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
