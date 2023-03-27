@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -44,6 +44,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShaleenDubey"><img src="https://avatars.githubusercontent.com/u/77484129?v=4?s=100" width="100px;" alt="ShaleenDubey"/><br /><sub><b>ShaleenDubey</b></sub></a><br /><a href="#content-ShaleenDubey" title="Content">🖋</a> <a href="#example-ShaleenDubey" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/PensPencil"><img src="https://avatars.githubusercontent.com/u/92708776?v=4?s=100" width="100px;" alt="PensPencil"/><br /><sub><b>PensPencil</b></sub></a><br /><a href="#content-PensPencil" title="Content">🖋</a> <a href="#example-PensPencil" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vikku911"><img src="https://avatars.githubusercontent.com/u/71919075?v=4?s=100" width="100px;" alt="Vikram Saurav"/><br /><sub><b>Vikram Saurav</b></sub></a><br /><a href="#content-vikku911" title="Content">🖋</a> <a href="#example-vikku911" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://aadithya.in"><img src="https://avatars.githubusercontent.com/u/519138?v=4?s=100" width="100px;" alt="aadithya"/><br /><sub><b>aadithya</b></sub></a><br /><a href="#content-aadithya" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
