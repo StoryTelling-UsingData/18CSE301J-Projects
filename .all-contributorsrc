@@ -128,7 +128,7 @@
       ]
     },
     {
-     "login": "subra4112",
+      "login": "subra4112",
       "name": "R Subramanian",
       "avatar_url": "https://avatars.githubusercontent.com/u/117251621?v=4",
       "profile": "https://github.com/subra4112",
@@ -154,6 +154,16 @@
       "profile": "http://aadithya.in",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "basit9958",
+      "name": "Basit Hasan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83411217?v=4",
+      "profile": "https://github.com/basit9958",
+      "contributions": [
+        "content",
+        "example"
       ]
     }
   ],
