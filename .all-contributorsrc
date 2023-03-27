@@ -33,7 +33,8 @@
       "profile": "http://bit.ly/3kzu5cy",
       "contributions": [
         "example",
-        "maintenance"
+        "maintenance",
+        "content"
       ]
     },
     {
@@ -84,6 +85,75 @@
       "contributions": [
         "content",
         "example"
+      ]
+    },
+    {
+      "login": "kamathshashank1111",
+      "name": "Shashank Kamath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71062791?v=4",
+      "profile": "https://github.com/kamathshashank1111",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "palkini",
+      "name": "Palkini Parate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100483902?v=4",
+      "profile": "https://github.com/palkini",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "ShaleenDubey",
+      "name": "ShaleenDubey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77484129?v=4",
+      "profile": "https://github.com/ShaleenDubey",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "PensPencil",
+      "name": "PensPencil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92708776?v=4",
+      "profile": "https://github.com/PensPencil",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+     "login": "subra4112",
+      "name": "R Subramanian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117251621?v=4",
+      "profile": "https://github.com/subra4112",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "vikku911",
+      "name": "Vikram Saurav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71919075?v=4",
+      "profile": "https://github.com/vikku911",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "aadithya",
+      "name": "aadithya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/519138?v=4",
+      "profile": "http://aadithya.in",
+      "contributions": [
+        "content"
       ]
     }
   ],
