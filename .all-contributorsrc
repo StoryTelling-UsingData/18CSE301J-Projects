@@ -116,6 +116,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "PensPencil",
+      "name": "PensPencil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92708776?v=4",
+      "profile": "https://github.com/PensPencil",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
