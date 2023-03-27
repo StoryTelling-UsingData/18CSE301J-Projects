@@ -126,6 +126,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "subra4112",
+      "name": "R Subramanian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117251621?v=4",
+      "profile": "https://github.com/subra4112",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
