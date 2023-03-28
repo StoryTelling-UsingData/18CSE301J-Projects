@@ -235,6 +235,66 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "joelsgeorge",
+      "name": "Joel Santosh George",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72654092?v=4",
+      "profile": "http://linkedin.com/in/joelsgeorge",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "ktk04",
+      "name": "Kevin Thomas Koshy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71869254?v=4",
+      "profile": "http://kevintkoshy.netlify.app",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "SYSHIL",
+      "name": "Syed Shahidh Ilhan F",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62804977?v=4",
+      "profile": "https://github.com/SYSHIL",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "abhay-lal",
+      "name": "Abhay Lal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74143500?v=4",
+      "profile": "https://github.com/abhay-lal",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "Torque44",
+      "name": "Ayushya Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71918979?v=4",
+      "profile": "https://github.com/Torque44",
+      "contributions": [
+        "content",
+        "example"
+      ]
+    },
+    {
+      "login": "sahooabhipsa10",
+      "name": "Abhipsa Sahoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99355886?v=4",
+      "profile": "https://github.com/sahooabhipsa10",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,

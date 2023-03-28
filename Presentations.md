@@ -18,4 +18,3 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    11  | Simrah Rafiqi </br> Poorvi Mittal | Livestock Census of India | [Link](https://docs.google.com/presentation/d/1J6GfZG2px2I3GWfH9XOg642g5O9mdOl0doY4uYPruz4/edit?usp=sharing)   |
 |    12  | Joel Santosh George </br> Kevin Thomas Koshy </br> Syed Shahid Ilhan </br> Abhay Lal </br> Ayushya Jain </br> Abhipsa Sahoo  | Customer Ageing Report Visualisation | [Link](https://docs.google.com/presentation/d/153VRVpIA86cModdAd5EnAxo1aYpaupLZuhqJ66Q2IFs/edit?usp=sharing)   |
 |    13  | Mohammad Ausaf Shah </br> Yash Pratap Singh </br> Faisal Nazir | Crop Recommendation System | [Link](https://docs.google.com/presentation/d/1rh33apsQu-bjUwbK7alRU1GLwgdbrWqzAtqPHVIIito/edit?usp=sharing)   |
-
