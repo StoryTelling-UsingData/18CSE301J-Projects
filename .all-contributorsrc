@@ -245,6 +245,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "ktk04",
+      "name": "Kevin Thomas Koshy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71869254?v=4",
+      "profile": "http://kevintkoshy.netlify.app",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
