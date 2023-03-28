@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -59,6 +59,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/12simu"><img src="https://avatars.githubusercontent.com/u/99986940?v=4?s=100" width="100px;" alt="Simrah Rafiqi"/><br /><sub><b>Simrah Rafiqi</b></sub></a><br /><a href="#content-12simu" title="Content">🖋</a> <a href="#example-12simu" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Probably-Poorvi"><img src="https://avatars.githubusercontent.com/u/117970154?v=4?s=100" width="100px;" alt="Poorvi Mittal"/><br /><sub><b>Poorvi Mittal</b></sub></a><br /><a href="#content-Probably-Poorvi" title="Content">🖋</a> <a href="#example-Probably-Poorvi" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://linkedin.com/in/joelsgeorge"><img src="https://avatars.githubusercontent.com/u/72654092?v=4?s=100" width="100px;" alt="Joel Santosh George"/><br /><sub><b>Joel Santosh George</b></sub></a><br /><a href="#content-joelsgeorge" title="Content">🖋</a> <a href="#example-joelsgeorge" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://kevintkoshy.netlify.app"><img src="https://avatars.githubusercontent.com/u/71869254?v=4?s=100" width="100px;" alt="Kevin Thomas Koshy"/><br /><sub><b>Kevin Thomas Koshy</b></sub></a><br /><a href="#content-ktk04" title="Content">🖋</a> <a href="#example-ktk04" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
