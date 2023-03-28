@@ -255,6 +255,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "SYSHIL",
+      "name": "Syed Shahidh Ilhan F",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62804977?v=4",
+      "profile": "https://github.com/SYSHIL",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
