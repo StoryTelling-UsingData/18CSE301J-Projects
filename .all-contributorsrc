@@ -235,6 +235,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "joelsgeorge",
+      "name": "Joel Santosh George",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72654092?v=4",
+      "profile": "http://linkedin.com/in/joelsgeorge",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
