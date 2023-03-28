@@ -265,6 +265,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "abhay-lal",
+      "name": "Abhay Lal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74143500?v=4",
+      "profile": "https://github.com/abhay-lal",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
