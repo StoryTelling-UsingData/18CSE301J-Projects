@@ -315,6 +315,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "faisalnazir7",
+      "name": "Faisal Nazir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76447944?v=4",
+      "profile": "https://github.com/faisalnazir7",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
