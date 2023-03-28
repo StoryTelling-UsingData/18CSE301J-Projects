@@ -22,3 +22,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    15  | Siddhardha Varma K | Cryptocurrency Analysis | [Link](https://www.canva.com/design/DAFd7h6NZbw/i-xK9sidaTwgapfbLBcqFg/view?utm_content=DAFd7h6NZbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) |
 |    16  | Sudhersan KV </br> Kishore Khan S </br> Harikesh P </br> Allen D Benjamin | The Impact of Layoffs | [Link](https://docs.google.com/presentation/d/1m6ugpamgAiaz5_wxoIaeCu7y2pxVsUs00nWLJja5I-w/edit?usp=sharing)
 |    17  | Shivam Singh </br> Sreekant Nair </br> Nilesh Kumar Singh | Global Plastic Pollution | [Link](https://drive.google.com/drive/folders/1pe2_fAbiQOOAGDXGqsScYWBD8X1rEQUh?usp=share_link) |
+|    18 | Swarali Utekar </br> Ayush Kumar </br> Mehul Saini | Indian Startups | [Link](https://www.canva.com/design/DAFedkzk-fw/tPGbOq9l_VgTdjQ97XwZbw/edit?utm_content=DAFedkzk-fw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
