@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -62,6 +62,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="http://kevintkoshy.netlify.app"><img src="https://avatars.githubusercontent.com/u/71869254?v=4?s=100" width="100px;" alt="Kevin Thomas Koshy"/><br /><sub><b>Kevin Thomas Koshy</b></sub></a><br /><a href="#content-ktk04" title="Content">🖋</a> <a href="#example-ktk04" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SYSHIL"><img src="https://avatars.githubusercontent.com/u/62804977?v=4?s=100" width="100px;" alt="Syed Shahidh Ilhan F"/><br /><sub><b>Syed Shahidh Ilhan F</b></sub></a><br /><a href="#content-SYSHIL" title="Content">🖋</a> <a href="#example-SYSHIL" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/abhay-lal"><img src="https://avatars.githubusercontent.com/u/74143500?v=4?s=100" width="100px;" alt="Abhay Lal"/><br /><sub><b>Abhay Lal</b></sub></a><br /><a href="#content-abhay-lal" title="Content">🖋</a> <a href="#example-abhay-lal" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Torque44"><img src="https://avatars.githubusercontent.com/u/71918979?v=4?s=100" width="100px;" alt="Ayushya Jain"/><br /><sub><b>Ayushya Jain</b></sub></a><br /><a href="#content-Torque44" title="Content">🖋</a> <a href="#example-Torque44" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
