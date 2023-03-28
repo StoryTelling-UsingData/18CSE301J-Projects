@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -67,6 +67,7 @@ Thanks to the following contributors for their contributions to this Data Visual
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sahooabhipsa10"><img src="https://avatars.githubusercontent.com/u/99355886?v=4?s=100" width="100px;" alt="Abhipsa Sahoo"/><br /><sub><b>Abhipsa Sahoo</b></sub></a><br /><a href="#content-sahooabhipsa10" title="Content">🖋</a> <a href="#example-sahooabhipsa10" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ausafshah18"><img src="https://avatars.githubusercontent.com/u/81023295?v=4?s=100" width="100px;" alt="Mohammad Ausaf Shah"/><br /><sub><b>Mohammad Ausaf Shah</b></sub></a><br /><a href="#content-ausafshah18" title="Content">🖋</a> <a href="#example-ausafshah18" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/faisalnazir7"><img src="https://avatars.githubusercontent.com/u/76447944?v=4?s=100" width="100px;" alt="Faisal Nazir"/><br /><sub><b>Faisal Nazir</b></sub></a><br /><a href="#content-faisalnazir7" title="Content">🖋</a> <a href="#example-faisalnazir7" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
