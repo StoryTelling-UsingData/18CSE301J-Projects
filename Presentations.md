@@ -28,4 +28,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    21  | Sarthak Jain </br> Manan Kadel | Coronavirus Data Visualization and Prediction | [Link](https://docs.google.com/presentation/d/1z1sPkdDvCoZR-z8KhkroSqXbRtoy_C7a/edit?usp=sharing&ouid=118294560989918943486&rtpof=true&sd=true) |
 |    22  | Shubham Gusain | Air Quality of Delhi | [Link](https://docs.google.com/presentation/d/1oPsqUwpFGRwD097iFxOqn6Qjzoruv0Mm2GzzfMyA0MA/edit?usp=sharing) |
 |    23  | Anmol Agarwal </br> Achal Kamboj </br> Akash PS </br> S Surya Prakash </br> Sai Pechetti Vaibhav | Food and Agriculture | [Link](https://docs.google.com/presentation/d/1IOU4dQJkD1OZ0W1N8KDS27-WnBHAlAJi/edit?usp=sharing&ouid=105234093970248157519&rtpof=true&sd=true) 
-
+|    24  | Anas Ahmed Ather </br> Prithvi Singh Kirar </br> Sharwan Kumar </br> Kartik Jaiswal </br> Shivam Kumar </br> Vanshit Rawat| Analysis of Rainfall in India | [Link](https://www.canva.com/design/DAFegUyD_zc/9YQYY24aH9tplPT-WTIxPw/view?utm_content=DAFegUyD_zc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
