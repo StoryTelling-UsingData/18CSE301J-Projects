@@ -26,4 +26,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    19  | Aditya Jangiti </br> Jayaram M </br> CH.Shashank </br> Nikhil Siripi </br> Siva Ram | Tourism Guide in India | [Link](https://www.canva.com/design/DAFedBB2o78/-yAYN4Ex13KeYdFLDg7ICA/view?utm_content=DAFedBB2o78&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)   |
 |    20  | Nivedita Anand </br> Nikhil Kalra </br> Arushi Roy </br> Prateek Bahrani </br> Varshith | Food Consumption and Sales Analysis of a Cafe | [Link](https://docs.google.com/presentation/d/1ilOJNcD6DofWpwBf8o1A-mVuTS5XuEkG/edit?usp=share_link&ouid=117748296037517502096&rtpof=true&sd=true) |
 |    21  | Sarthak Jain </br> Manan Kadel | Coronavirus Data Visualization and Prediction | [Link](https://docs.google.com/presentation/d/1z1sPkdDvCoZR-z8KhkroSqXbRtoy_C7a/edit?usp=sharing&ouid=118294560989918943486&rtpof=true&sd=true) |
-
+|    22  | Shubham Gusain | Air Quality of Delhi | [Link](https://docs.google.com/presentation/d/1oPsqUwpFGRwD097iFxOqn6Qjzoruv0Mm2GzzfMyA0MA/edit?usp=sharing) |
