@@ -29,3 +29,5 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    22  | Shubham Gusain | Air Quality of Delhi | [Link](https://docs.google.com/presentation/d/1oPsqUwpFGRwD097iFxOqn6Qjzoruv0Mm2GzzfMyA0MA/edit?usp=sharing) |
 |    23  | Anmol Agarwal </br> Achal Kamboj </br> Akash PS </br> S Surya Prakash </br> Sai Pechetti Vaibhav | Food and Agriculture | [Link](https://docs.google.com/presentation/d/1IOU4dQJkD1OZ0W1N8KDS27-WnBHAlAJi/edit?usp=sharing&ouid=105234093970248157519&rtpof=true&sd=true) 
 |    24  | Debdatta Singha </br> kirti kalal <br> UdarapuChandu </br> R.V.V. Krishna | Edtech Industry of India | [Link](https://www.canva.com/design/DAFeeH9lOPc/CXtBcg4r6t4VDHuh5W8n3Q/view?utm_content=DAFeeH9lOPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+|    25  | Swarali Utekar </br> Ayush Kumar </br> Mehul Saini | Indian Startups | [Link](https://www.canva.com/design/DAFedkzk-fw/tPGbOq9l_VgTdjQ97XwZbw/edit?utm_content=DAFedkzk-fw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+
