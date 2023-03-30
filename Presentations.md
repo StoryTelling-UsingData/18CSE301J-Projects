@@ -31,4 +31,5 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    24  | Debdatta Singha </br> kirti kalal <br> UdarapuChandu </br> R.V.V. Krishna | Edtech Industry of India | [Link](https://www.canva.com/design/DAFeeH9lOPc/CXtBcg4r6t4VDHuh5W8n3Q/view?utm_content=DAFeeH9lOPc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |    25  | Swarali Utekar </br> Ayush Kumar </br> Mehul Saini | Indian Startups | [Link](https://www.canva.com/design/DAFedkzk-fw/tPGbOq9l_VgTdjQ97XwZbw/edit?utm_content=DAFedkzk-fw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |    26  | Sai Nath </br> Sai Harish </br>  Prabhav Reddy </br> Vijay Manohar </br> Sesha Vineeth </br> Sidarth D </br> Rishab Dharmik | Sales Analysis of Super Market | [Link]() |
+|    27  | Shikhar Agrawal </br> Nikhil Burdak </br> Anishka Kesaria </br> Aditya S | Crime in India | [Link] (https://www.canva.com/design/DAFee87GDUI/SBEeSgsVTaXpGKkTZ6xTGw/view?utm_content=DAFee87GDUI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
