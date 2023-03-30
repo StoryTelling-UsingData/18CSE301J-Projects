@@ -32,4 +32,5 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    25  | Swarali Utekar </br> Ayush Kumar </br> Mehul Saini | Indian Startups | [Link](https://www.canva.com/design/DAFedkzk-fw/tPGbOq9l_VgTdjQ97XwZbw/edit?utm_content=DAFedkzk-fw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 |    26  | Sai Nath </br> Sai Harish </br>  Prabhav Reddy </br> Vijay Manohar </br> Sesha Vineeth </br> Sidarth D </br> Rishab Dharmik | Sales Analysis of Super Market | [Link]() |
 |    27  | Shikhar Agrawal </br> Nikhil Burdak </br> Anishka Kesaria </br> Aditya S | Crime in India | [Link] (https://www.canva.com/design/DAFee87GDUI/SBEeSgsVTaXpGKkTZ6xTGw/view?utm_content=DAFee87GDUI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+|    28  | Aryaman adivya singh </br> Routhu Manoj Sitaram </br> A.S.Pravieen | ANALYSIS ON AIR POLLUTION AND CARBON EMISSION ACCOUNTING | [Link](https://docs.google.com/presentation/d/1SpHUc8HDw5UiU8AeulSBt3FwnIFMU66L/edit?usp=sharing&ouid=102488768229602726507&rtpof=true&sd=true) |
 
