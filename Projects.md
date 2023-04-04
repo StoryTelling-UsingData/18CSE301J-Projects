@@ -13,23 +13,23 @@
 | 5 | SYED SHAHID ILHAN F (RA2011003010048) | [Link](https://syshil.github.io/18CSE301J_RA2011003010048/) | 1 | :white_check_mark:|
 | 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link](https://joelsgeorge.github.io/18CSE301J_RA2011003010051/) | 1 |:white_check_mark: |
 | 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link](https://debayan-creator.github.io/18CSE301J_RA2011003010059/) | 1 |:white_check_mark:|
-| 8 |	SHIVAM SINGH (RA2011003010087) | [Link](https://shivam94353.github.io/18CSE301J_RA2011003010087.github.io/) | 1 |:white_check_mark: |
+| 8 |	SHIVAM SINGH (RA2011003010087) | [Link](https://shivam94353.github.io/18CSE301J_RA2011003010087.github.io/) | 1|:white_check_mark:|
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link](https://sreekantnair10.github.io/18CSE301J_RA2011003010096/) | 1 |:white_check_mark: |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link](https://nikhilburdak.github.io/18CSE301J_RA2011003010209/) | 1 | :white_check_mark: |
-| 11 |	ANISHKA KESARIA (RA2011003010240) | [Link](https://anishkakesaria.github.io/18CSE301J_RA2011003010240/) | 1 | :white_check_mark: |
+| 11 |	ANISHKA KESARIA (RA2011003010240) | [Link](https://anishkakesaria.github.io/18CSE301J_RA2011003010240/) | 1 | :white_check_mark:|
 | 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
 | 13 |	ADITYA S (RA2011003010252) |  [Link](https://adityas2002.github.io/18CSE301J_RA2011003010252/) | 1 |  :white_check_mark: |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link](https://arydutta.github.io/18CSE301J_RA2011003010290/) | 1 | :white_check_mark: |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link](https://yash623623.github.io/18CSE301J_RA2011003010314/) | 1 | :white_check_mark:|
-| 16 |	MOHAMMAD AUSAF SHAH (RA2011003010322) |  [Link](https://ausafshah18.github.io/18CSE301J_RA2011003010322/) | 1 | :white_check_mark: |
+| 16 |	MOHAMMAD AUSAF SHAH (RA2011003010322) |  [Link](https://ausafshah18.github.io/18CSE301J_RA2011003010322/) | 1 |:white_check_mark: |
 | 17 |	RITIK RAJ (RA2011003010334) |  [Link](https://ritikraj018.github.io/18CSE301J_RA2011003010334/) | 1 | :white_check_mark: |
 | 18 |	AKASH PRASAD (RA2011003010336) |  [Link](https://akashprasad7631.github.io/18CSE301J-RA2011003010336.github.io/) | 1 | :white_check_mark:|
 | 19 |	JUSTIN JOSEPH (RA2011003010339) | [Link](https://jusjos.github.io/18CSE301J_RA2011003010339/) | 1 | :white_check_mark: |
 | 20 |	ABHIPSA SAHOO (RA2011003010346) | [Link](https://sahooabhipsa10.github.io/18CSE301J_RA2011003010346/) | 1 | :white_check_mark: |
 | 21 |	SIMRAH RAFIQI (RA2011003010348) | [Link]( https://12simu.github.io/18CSE301J_RA2011003010348/) | 1 | :white_check_mark: |
-| 22 |	POORVI MITTAL (RA2011003010361) | [Link]( https://probably-poorvi.github.io/18CSE301J_RA2011003010361/ ) | 1 | :white_check_mark: |
+| 22 |	POORVI MITTAL (RA2011003010361) | [Link]( https://probably-poorvi.github.io/18CSE301J_RA2011003010361/ ) | 1 |:white_check_mark:|
 | 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link](https://ayutzo.github.io/18CSE301J_RA2011003010375/) | 1 | :white_check_mark: |
-| 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link](https://swaraliii.github.io/18CSE301J_RA2011003010377/) | 1 | :white_check_mark: |
+| 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link](https://swaraliii.github.io/18CSE301J_RA2011003010377/) | 1 |:white_check_mark:|
 | 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link](https://noobhacker000111.github.io/18CSE301J_RA2011003010380/) | 1 | :white_check_mark: |
 | 26 |	MEHUL SAINI (RA2011003010389) | [Link](https://mehul389.github.io/18CSE301J_RA2011003010389/) | 1 |:white_check_mark: |
 | 27 |	FAISAL NAZIR (RA2011003010441) | [Link](https://faisalnazir7.github.io/18CSE301J_RA2011003010441/) | 1 | :white_check_mark: |
@@ -45,7 +45,7 @@
 | 37 |	ANANTHABHOTLA CHANDRA SEKHAR V (RA2011003010591) | [Link](https://chan279.github.io/index.html) | 1 | |
 | 38 |	MANAN KADEL (RA2011026010085) | [Link]() | 1 | |
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link](https://1234aditya1234.github.io/18CSE301J_RA2011026010105/) | 1 | :white_check_mark: |
-| 40 |	SARTHAK JAIN (RA2011026010112) | [Link](https://sarthakjain1012.github.io/18CSC301J---RA2011026010112/) | 1 | :white_check_mark: |
+| 40 |	SARTHAK JAIN (RA2011026010112) | [Link](https://sarthakjain1012.github.io/18CSC301J---RA2011026010112/) | 1 | :white_check_mark:|
 | 41 |	HARIKESH P (RA2011026010193) | [Link](https://harikesh11.github.io/18CSE301J_RA2011026010193/) | 1 |:white_check_mark: |
 | 42 |	KISHORE KHAN S (RA2011026010233) | [Link](https://kishorekhan2003.github.io/18CSE301J_RA2011026010233/) | 1 |:white_check_mark: |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
