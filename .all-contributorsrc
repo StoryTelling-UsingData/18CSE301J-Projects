@@ -335,6 +335,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "ctrlcode9",
+      "name": "ctrlcode9",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81381277?v=4",
+      "profile": "https://github.com/ctrlcode9",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
