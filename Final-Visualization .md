@@ -3,5 +3,5 @@
 | S.No  | Project Title | Viz Link |
 |:------:|---------------|:-------------------:|
 |    1   | Rainfall-Triggered Landslides | [Link](https://drive.google.com/file/d/1q2qoU9f6WYyr7Fmv47B0qZ6ssufcWotP/view?usp=share_link) |
-|    2   | | [Link]() |
+|    2   | School Community Systems Report| [Link](https://drive.google.com/file/d/10nlDcmZOqLkXO5eMudDQkCTvKZrjcdfl/view?usp=sharing) |
 |    3   | | [Link]() |
