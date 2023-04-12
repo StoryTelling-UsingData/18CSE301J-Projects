@@ -8,4 +8,5 @@
 |    4   | Syed Shahid Ilhan </br> Abhay Lal </br> Abhipsa Sahoo</br> Joel Santosh George </br> Kevin Thomas Koshy </br> Mohd Amaan  </br> Ayushya Jain | S&P 500 Market Analysis | [Link](https://youtu.be/lfyqsMxN85o) |
 |    5   | PRAJJWAL DEEP GHOSH </br> NIPUN CHAURASIA| Analysis of the Indian Premier League | [Link](https://drive.google.com/file/d/1Dg_q5bu1XIeDiq1uKJHjYfy4szIWXqEY/view?usp=sharing) 
 |    6   | Aditya Pathak </br> Mahek Kamani | Mutual Funds : Insights using Data visualization | [Link](https://drive.google.com/file/d/1rGB0EDO8kTRLyB-ERS16MNhl3SKcfs9n/view?usp=sharing) |
+|    7   | SRIJAN CHAKRAVORTY <\br> ROHIT N </br> NAMAN ANAND | [Link](https://drive.google.com/file/d/14o2tYam88zHaauttMOnpDPrGvkB72zdG/view?usp=sharing) |
 
