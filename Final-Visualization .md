@@ -9,4 +9,4 @@
 |    5   | PRAJJWAL DEEP GHOSH </br> NIPUN CHAURASIA| Analysis of the Indian Premier League | [Link](https://drive.google.com/file/d/1Dg_q5bu1XIeDiq1uKJHjYfy4szIWXqEY/view?usp=sharing) 
 |    6   | Aditya Pathak </br> Mahek Kamani | Mutual Funds : Insights using Data visualization | [Link](https://drive.google.com/file/d/1rGB0EDO8kTRLyB-ERS16MNhl3SKcfs9n/view?usp=sharing) |
 |    7   | SRIJAN CHAKRAVORTY <\br> ROHIT N </br> NAMAN ANAND | [Link](https://drive.google.com/file/d/14o2tYam88zHaauttMOnpDPrGvkB72zdG/view?usp=sharing) |
-
+|    8   | Anas Ahmed Ather </br> Prithvi Singh Kirar </br> Sharwan Kumar </br> Kartik Jaiswal </br> Shivam Kumar </br> Vanshit Rawat  | Coal Production Analysis (1990-2021) | [Link](https://anas07860.github.io/Coal-Production-Visual-Analysis/) 
