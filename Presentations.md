@@ -35,4 +35,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    28  | Aryaman adivya singh </br> Routhu Manoj Sitaram </br> A.S.Pravieen | ANALYSIS ON AIR POLLUTION AND CARBON EMISSION ACCOUNTING | [Link](https://docs.google.com/presentation/d/1SpHUc8HDw5UiU8AeulSBt3FwnIFMU66L/edit?usp=sharing&ouid=102488768229602726507&rtpof=true&sd=true) |
 |    29  | Anas Ahmed Ather </br> Prithvi Singh Kirar </br> Sharwan Kumar </br> Kartik Jaiswal </br> Shivam Kumar </br> Vanshit Rawat| Analysis of Rainfall in India | [Link](https://www.canva.com/design/DAFegUyD_zc/_aOrHpypl2F51rcVrDpvMg/view?utm_content=DAFegUyD_zc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 |    30  | Anjanay Khare </br> Siddharth Choudhary </br> Bhurva Rajiv Sharma | IPL Analysis | [Link](https://www.canva.com/design/DAFebaS-J-c/cwBcvNJb2VlColgM7HeguQ/view?utm_content=DAFebaS-J-c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-
+|    31  | Suresh Suthar </br> Nitin Srivastava  | Analysis of Housing Prices  | [Link](https://docs.google.com/presentation/d/1gdkxLwqvF-mATlXU9NnlH7e0BMIQrqTUHKndWu-EH3E/edit?usp=sharing) 
