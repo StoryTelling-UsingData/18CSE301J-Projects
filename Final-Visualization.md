@@ -22,4 +22,5 @@
 |    18  | Suresh Suthar <br> Nitin Srivastava | Amazon prime Video Data visualization | [Link](https://drive.google.com/file/d/1iH2CllFrWJXd1UKTpONouOO3lYiwM8F0/view?usp=share_link) |
 |    19  | Sarthak Jain | Community Systems Report | [Link](https://drive.google.com/file/d/10nlDcmZOqLkXO5eMudDQkCTvKZrjcdfl/view?usp=share_link) |
 |    20  | PALKINI PARATE <br> SHASHANK KAMATH <br> SHALEEN DUBEY <br> SRINIVAS T B | UPI - Revolutionizing Payments in India | [Link](https://drive.google.com/file/d/1GT7jtJrpfe1C5WHHdw3D-yPx279kMdC1/view?usp=share_link) |
+|    21  | AKASH PS(RA2011026010003) </br> SURYAPRAKASH S(RA2011030010137) | Social Media Usage in India | [Link](https://drive.google.com/file/d/1KE9CAHuFrxwHSO9KzZmDrMlvDRlqNN_u/view?usp=sharing) |
 
