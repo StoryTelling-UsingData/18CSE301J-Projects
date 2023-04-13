@@ -355,6 +355,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "adarshjamuaar",
+      "name": "Adarsh Jamuaar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53737519?v=4",
+      "profile": "https://github.com/adarshjamuaar",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -362,5 +372,5 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "18CSE301J-Projects",
-  "projectOwner": "VikashPR"
+  "projectOwner": "StoryTelling-UsingData"
 }
