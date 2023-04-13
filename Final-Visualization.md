@@ -18,3 +18,4 @@
 |    14  | Akash Prasad(RA2011003010336) </br> Justin Joseph(RA2011003010339) </br> Ritik Raj(RA2011003010334) </br> Aryan Dutta(RA2011003010290) |  Global Terrorism. | [Link](https://drive.google.com/file/d/1Ow4J6FzclAs-8M0RKZ-BR_QPMK6M1HAG/view?usp=share_link) |
 |    15  | JAYESH S CHAUDHARI <br> ANISH PARKHE | Tourism in India | [Link](https://drive.google.com/file/d/1SFzWOCsCPBRd4E7-EV8JUbpPPETTCkpG/view?usp=sharing) |
 
+​|    16  | SIDDHARTH PANDEY <br> ADARSH KUMAR SINGH <br> ADITYA KAPOOR| Stock Market Manipulation Detection | [Link](https://drive.google.com/file/d/1cvpT0ioHayIeyWTwDKWnTpdqAb6pB3oH/view?usp=sharing) |
