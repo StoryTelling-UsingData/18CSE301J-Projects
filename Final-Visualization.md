@@ -24,4 +24,4 @@
 |    20  | PALKINI PARATE <br> SHASHANK KAMATH <br> SHALEEN DUBEY <br> SRINIVAS T B | UPI - Revolutionizing Payments in India | [Link](https://drive.google.com/file/d/1GT7jtJrpfe1C5WHHdw3D-yPx279kMdC1/view?usp=share_link) |
 |    21  | AKASH PS(RA2011026010003) </br> SURYAPRAKASH S(RA2011030010137) | Social Media Usage in India | [Link](https://drive.google.com/file/d/1KE9CAHuFrxwHSO9KzZmDrMlvDRlqNN_u/view?usp=sharing) |
 |    22  | Aryaman Adivya Singh</br> Routhu Manoj Sitaram </br> A.S.Pravieen  | CO2 Emissions and its Consequences | [Link](https://drive.google.com/file/d/1RaZNLfObWInROdy7-etg4jpna5BkzFnl/view?usp=share_link)
-
+|    23  | G Sai Harish(RA2011003011185) </br> RISHABH DHARMIK(RA2011003011129) </br> NITTURU SAINATH REDDY(RA2011003011026) </br> SIDHARTH D (RA2011003010847) </br> POTHUREDDY VIJAY MANOHAR(RA2011003011045) </br> ATHIVARAPU PRABHAV REDDY(RA2011003011010) </br> YENDURI SESHA VINEETH(RA2011031010129) | Sales Analysis of Super Market based up on state | [Link](https://drive.google.com/file/d/1B6N9OBbBIfsUpg6LybBbFMLNNC6Tz5Dr/view?usp=sharing) |
