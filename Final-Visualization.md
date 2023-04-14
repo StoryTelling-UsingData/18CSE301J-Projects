@@ -27,7 +27,6 @@
 |    23  | G Sai Harish(RA2011003011185) </br> RISHABH DHARMIK(RA2011003011129) </br> NITTURU SAINATH REDDY(RA2011003011026) </br> SIDHARTH D (RA2011003010847) </br> POTHUREDDY VIJAY MANOHAR(RA2011003011045) </br> ATHIVARAPU PRABHAV REDDY(RA2011003011010) </br> YENDURI SESHA VINEETH(RA2011031010129) | Sales Analysis of Super Market based up on state | [Link](https://drive.google.com/file/d/1B6N9OBbBIfsUpg6LybBbFMLNNC6Tz5Dr/view?usp=sharing) |
 |    24  | Ayush Kumar</br> Swarali Utekar </br> Mehul Saini  | Indian Startups | [Link](https://drive.google.com/file/d/1qrisAtFl32Mou8b99MnKqJiSA2Kj9Fct/view?usp=sharing)
 |    25  | Shubham Gusain | How Delhi Breathes | [Link](https://drive.google.com/file/d/1FPZUu7jWX-zQPB6uqwHHKCTLgXGQZpXk/view?usp=sharing) | 
-|    26  | Debdatta Singha </br> Kirti Kalal </br> Udarapu Chandu </br> R.V.V. Krishna | Ed-Tech Industry of India | [Link](https://drive.google.com/file/d/1DETEpXG6lP2wHE3DzvxPZoFzftxuZuCj/view?usp=sharing)|
+|    26  | Debdatta Singha </br> Kirti Kalal </br> Udarapu Chandu </br> R.V.V. Krishna | Ed-Tech Industry of India | [Link](https://drive.google.com/file/d/1YjyrPkZC6gpfE66Yd-V__VP5S-2pzTNp/view?usp=share_link)|
 |    27  | Achal Kamboj | Covid Deaths vs Cases | [Link](https://drive.google.com/file/d/1WyJwgt6tOjTg5DHWzyxjhsyv_FsklqZC/view?usp=sharing) |
 |    28  | Siddharth Pandey </br> Adarsh Kumar Singh </br> Aditya Kapoor | Stock Market Manipulation Detection | [Link](https://drive.google.com/file/d/1cvpT0ioHayIeyWTwDKWnTpdqAb6pB3oH/view?usp=sharing)|
-
