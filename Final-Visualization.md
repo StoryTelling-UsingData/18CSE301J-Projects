@@ -28,4 +28,4 @@
 |    24  | Ayush Kumar</br> Swarali Utekar </br> Mehul Saini  | Indian Startups | [Link](https://drive.google.com/file/d/1qrisAtFl32Mou8b99MnKqJiSA2Kj9Fct/view?usp=sharing)
 |    25  | Shubham Gusain | How Delhi Breathes | [Link](https://drive.google.com/file/d/1FPZUu7jWX-zQPB6uqwHHKCTLgXGQZpXk/view?usp=sharing) | 
 |    26  | Debdatta Singha </br> Kirti Kalal </br> Udarapu Chandu </br> R.V.V. Krishna | Ed-Tech Industry of India | [Link](https://drive.google.com/file/d/1DETEpXG6lP2wHE3DzvxPZoFzftxuZuCj/view?usp=sharing)|
-
+|    27  | Simrah Rafiqi </br> Poorvi Mittal | Livestock Census of India | [Link](https://drive.google.com/file/d/141Y6lWLW8fdhPSVPYuar5i2zYytGWfmU/view?usp=sharing)|
