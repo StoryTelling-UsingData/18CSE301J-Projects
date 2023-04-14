@@ -11,7 +11,7 @@
 |    7   | SRIJAN CHAKRAVORTY </br> ROHIT N </br> NAMAN ANAND | Analysis of state-wise production of food grains and non-food grains|[Link](https://drive.google.com/file/d/14o2tYam88zHaauttMOnpDPrGvkB72zdG/view?usp=sharing) |
 |    8   | Anas Ahmed Ather </br> Prithvi Singh Kirar </br> Sharwan Kumar </br> Kartik Jaiswal </br> Shivam Kumar </br> Vanshit Rawat  | Coal Production Analysis (1990-2021) | [Link](https://youtu.be/l1WghV2v2As) 
 |    9   | Yash Pratap Singh </br> Mohammad Ausaf Shah </br> Faisal Nazir | Finance and Revenue Analytics | [Link](https://drive.google.com/file/d/1RRz_3R5IriDd-WPR6fD3z2RsKMzrA4Rq/view?usp=sharing) |
-|    10  | Anmol Agarwal </br> Achal Kamboj | Renewable Energy Consumption | [Link](https://drive.google.com/file/d/1Ai3JbAph38-sqENzd1W2q8TpC1uZ3jrV/view?usp=share_link) |
+|    10  | Anmol Agarwal | Renewable Energy Consumption | [Link](https://drive.google.com/file/d/1Ai3JbAph38-sqENzd1W2q8TpC1uZ3jrV/view?usp=share_link) |
 |    11  | Siddhardha varma K| Cryptocurrency Analysis | [Link](https://drive.google.com/file/d/1qKAgZUy68T8HXc7GoCpwhC5Ob4RjHel2/view?usp=sharing) |
 |    12  | Aman Verma </br> Naveed Hyder </br> Ankit Raj </br> Saumya Sah | MAPPING THE SKIES | [Link](https://drive.google.com/file/d/1z1g4Z5Rdy6XO83ic5rl6_jGtuHCGVLh4/view?usp=sharing) |
 |    13  | Aditya Jangiti </br> Jayaram M </br> CH.Shashank </br> Siva Ram </br> Nikhil Siripi | Tourism in India | [Link](https://public.flourish.studio/story/1887086/) |
@@ -22,10 +22,14 @@
 |    18  | Suresh Suthar <br> Nitin Srivastava | Amazon prime Video Data visualization | [Link](https://drive.google.com/file/d/1iH2CllFrWJXd1UKTpONouOO3lYiwM8F0/view?usp=share_link) |
 |    19  | Sarthak Jain | Community Systems Report | [Link](https://drive.google.com/file/d/10nlDcmZOqLkXO5eMudDQkCTvKZrjcdfl/view?usp=share_link) |
 |    20  | PALKINI PARATE <br> SHASHANK KAMATH <br> SHALEEN DUBEY <br> SRINIVAS T B | UPI - Revolutionizing Payments in India | [Link](https://drive.google.com/file/d/1GT7jtJrpfe1C5WHHdw3D-yPx279kMdC1/view?usp=share_link) |
-|    21  | AKASH PS(RA2011026010003) </br> SURYAPRAKASH S(RA2011030010137) | Social Media Usage in India | [Link](https://drive.google.com/file/d/1KE9CAHuFrxwHSO9KzZmDrMlvDRlqNN_u/view?usp=sharing) |
+|    21  | AKASH PS(RA2011026010003) </br> SURYAPRAKASH S(RA2011030010137) </br> BALAJI MURUGAN(RA2011003011404) | Social Media Usage in India | [Link](https://drive.google.com/file/d/1UrmXzAaKC1DIpvlAm6k0ynxSvZHqYlka/view?usp=sharing) |
 |    22  | Aryaman Adivya Singh</br> Routhu Manoj Sitaram </br> A.S.Pravieen  | CO2 Emissions and its Consequences | [Link](https://drive.google.com/file/d/1RaZNLfObWInROdy7-etg4jpna5BkzFnl/view?usp=share_link)
 |    23  | G Sai Harish(RA2011003011185) </br> RISHABH DHARMIK(RA2011003011129) </br> NITTURU SAINATH REDDY(RA2011003011026) </br> SIDHARTH D (RA2011003010847) </br> POTHUREDDY VIJAY MANOHAR(RA2011003011045) </br> ATHIVARAPU PRABHAV REDDY(RA2011003011010) </br> YENDURI SESHA VINEETH(RA2011031010129) | Sales Analysis of Super Market based up on state | [Link](https://drive.google.com/file/d/1B6N9OBbBIfsUpg6LybBbFMLNNC6Tz5Dr/view?usp=sharing) |
 |    24  | Ayush Kumar</br> Swarali Utekar </br> Mehul Saini  | Indian Startups | [Link](https://drive.google.com/file/d/1qrisAtFl32Mou8b99MnKqJiSA2Kj9Fct/view?usp=sharing)
 |    25  | Shubham Gusain | How Delhi Breathes | [Link](https://drive.google.com/file/d/1FPZUu7jWX-zQPB6uqwHHKCTLgXGQZpXk/view?usp=sharing) | 
 |    26  | Debdatta Singha </br> Kirti Kalal </br> Udarapu Chandu </br> R.V.V. Krishna | Ed-Tech Industry of India | [Link](https://drive.google.com/file/d/1DETEpXG6lP2wHE3DzvxPZoFzftxuZuCj/view?usp=sharing)|
-|    27  | Simrah Rafiqi </br> Poorvi Mittal | Livestock Census of India | [Link](https://drive.google.com/file/d/141Y6lWLW8fdhPSVPYuar5i2zYytGWfmU/view?usp=sharing)|
+|    26  | Debdatta Singha </br> Kirti Kalal </br> Udarapu Chandu </br> R.V.V. Krishna | Ed-Tech Industry of India | [Link](https://drive.google.com/file/d/1YjyrPkZC6gpfE66Yd-V__VP5S-2pzTNp/view?usp=share_link)|
+|    27  | Achal Kamboj | Covid Deaths vs Cases | [Link](https://drive.google.com/file/d/1WyJwgt6tOjTg5DHWzyxjhsyv_FsklqZC/view?usp=sharing) |
+|    29  | Siddharth Pandey </br> Adarsh Kumar Singh </br> Aditya Kapoor | Stock Market Manipulation Detection | [Link](https://drive.google.com/file/d/1cvpT0ioHayIeyWTwDKWnTpdqAb6pB3oH/view?usp=sharing)|
+|    30  | Simrah Rafiqi </br> Poorvi Mittal | Livestock Census of India | [Link](https://drive.google.com/file/d/141Y6lWLW8fdhPSVPYuar5i2zYytGWfmU/view?usp=sharing)|
+
