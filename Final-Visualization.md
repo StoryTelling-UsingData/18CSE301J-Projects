@@ -31,3 +31,4 @@
 |    27  | Achal Kamboj | Covid Deaths vs Cases | [Link](https://drive.google.com/file/d/1WyJwgt6tOjTg5DHWzyxjhsyv_FsklqZC/view?usp=sharing) |
 |    28  | Siddharth Pandey </br> Adarsh Kumar Singh </br> Aditya Kapoor | Stock Market Manipulation Detection | [Link](https://drive.google.com/file/d/1cvpT0ioHayIeyWTwDKWnTpdqAb6pB3oH/view?usp=sharing)|
 |    29  | Simrah Rafiqi </br> Poorvi Mittal | Livestock Census of India | [Link](https://drive.google.com/file/d/141Y6lWLW8fdhPSVPYuar5i2zYytGWfmU/view?usp=sharing) |
+|    30  | Anjanay Khare </br> Siddharth Choudhary | IPL Analysis | [Link](https://drive.google.com/file/d/1nVuizoDWFHu0c6bBG8tkEkZ2dhz7Bqvz/view?usp=sharing)|
