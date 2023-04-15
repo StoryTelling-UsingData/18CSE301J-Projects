@@ -30,3 +30,4 @@
 |    26  | Debdatta Singha </br> Kirti Kalal </br> Udarapu Chandu </br> R.V.V. Krishna | Ed-Tech Industry of India | [Link](https://drive.google.com/file/d/1YjyrPkZC6gpfE66Yd-V__VP5S-2pzTNp/view?usp=share_link)|
 |    27  | Achal Kamboj | Covid Deaths vs Cases | [Link](https://drive.google.com/file/d/1WyJwgt6tOjTg5DHWzyxjhsyv_FsklqZC/view?usp=sharing) |
 |    28  | Siddharth Pandey </br> Adarsh Kumar Singh </br> Aditya Kapoor | Stock Market Manipulation Detection | [Link](https://drive.google.com/file/d/1cvpT0ioHayIeyWTwDKWnTpdqAb6pB3oH/view?usp=sharing)|
+|    29  | Shivam Singh </br> Sreekant Nair </br> Nilesh Kumar Singh | Global Plastic Pollution | [Link](https://drive.google.com/drive/folders/1EEI3yd9pKYsSLYdAuc8nC9mGHiyu7vbS?usp=share_link) |
