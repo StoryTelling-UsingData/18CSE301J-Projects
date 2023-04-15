@@ -32,3 +32,4 @@
 |    28  | Siddharth Pandey </br> Adarsh Kumar Singh </br> Aditya Kapoor | Stock Market Manipulation Detection | [Link](https://drive.google.com/file/d/1cvpT0ioHayIeyWTwDKWnTpdqAb6pB3oH/view?usp=sharing)|
 |    29  | Simrah Rafiqi </br> Poorvi Mittal | Livestock Census of India | [Link](https://drive.google.com/file/d/141Y6lWLW8fdhPSVPYuar5i2zYytGWfmU/view?usp=sharing) |
 |    30  | Anjanay Khare </br> Siddharth Choudhary | IPL Analysis | [Link](https://drive.google.com/file/d/1nVuizoDWFHu0c6bBG8tkEkZ2dhz7Bqvz/view?usp=sharing)|
+|    31  | Shivam Singh </br> Sreekant Nair </br> Nilesh Kumar Singh | Global Plastic Pollution | [Link](https://drive.google.com/drive/folders/1EEI3yd9pKYsSLYdAuc8nC9mGHiyu7vbS?usp=share_link) |
