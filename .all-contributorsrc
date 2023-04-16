@@ -375,6 +375,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Anas07860",
+      "name": "Anas Ahmed Ather",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83367511?v=4",
+      "profile": "https://github.com/Anas07860",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
