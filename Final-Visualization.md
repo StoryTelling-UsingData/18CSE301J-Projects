@@ -33,3 +33,4 @@
 |    29  | Simrah Rafiqi </br> Poorvi Mittal | Livestock Census of India | [Link](https://drive.google.com/file/d/141Y6lWLW8fdhPSVPYuar5i2zYytGWfmU/view?usp=sharing) |
 |    30  | Anjanay Khare </br> Siddharth Choudhary | IPL Analysis | [Link](https://drive.google.com/file/d/1nVuizoDWFHu0c6bBG8tkEkZ2dhz7Bqvz/view?usp=sharing)|
 |    31  | Shivam Singh </br> Sreekant Nair </br> Nilesh Kumar Singh | Global Plastic Pollution | [Link](https://drive.google.com/drive/folders/1EEI3yd9pKYsSLYdAuc8nC9mGHiyu7vbS?usp=share_link) |
+|    32  | Aditya S </br> Shikhar Agrawal </br> Nikhil Burdak </br> Anishka Kesaria | Crime and Economy - Relating sconomic statistics with crime | [Link](https://www.canva.com/design/DAFf6fwxXss/Bg88BBFpeTfAN3pnBsH5lw/view) |
