@@ -4,7 +4,7 @@
 |:------:|:-------------:|---------------|:-------------------:|
 |    1   | Utkarsh Yashwant Tambe | Criclytics - Discovering the Story Behind the Stats | [Link](https://bit.ly/3zy2vkk) |
 |    2   | VIKRAM SAURAV <br/> SUBRAMANIAN R <br/> AADHITYA R <br/> VIKASH PR | The High Cost of Ignoring Food Waste: A College and Country-Wide Trends (#SRM Perspective) | [Link](https://youtu.be/LFbspJSLhwc) |
-|    3   | Prateek </br> Ayush Abhigyan </br> Afraz Tanvir </br> Soham Ghosh </br> Suyash Joshi </br> Basit Hasan| Rainfall-Triggered Landslides | [Link](https://drive.google.com/file/d/1q2qoU9f6WYyr7Fmv47B0qZ6ssufcWotP/view?usp=share_link) 
+|    3   | Prateek </br> Ayush Abhigyan </br> Afraz Tanvir </br> Ghosh </br> Suyash Joshi </br> Basit Hasan| Rainfall-Triggered Landslides | [Link](https://drive.google.com/file/d/1q2qoU9f6WYyr7Fmv47B0qZ6ssufcWotP/view?usp=share_link) 
 |    4   | M.M.Sabaresh </br>  Adarsh Vardhan Singh </br>  Adithya Dutt Kambhampati </br> Sarvesh Eknath Mote </br> Mritunjay Kumar jha </br> Priyanshu jha  |  Indian Key Commodities Retail | [Link](https://drive.google.com/file/d/1CNRz_SngVn1UwhNmddP5suTd7QlMXh7Y/view?usp=share_link) |
 |    5   | Syed Shahid Ilhan </br> Abhay Lal </br> Abhipsa Sahoo</br> Joel Santosh George </br> Kevin Thomas Koshy </br> Mohd Amaan  </br> Ayushya Jain | S&P 500 Market Analysis | [Link](https://youtu.be/lfyqsMxN85o) |
 |    6   | PRAJJWAL DEEP GHOSH </br> NIPUN CHAURASIA| Analysis of the Indian Premier League | [Link](https://drive.google.com/file/d/1Dg_q5bu1XIeDiq1uKJHjYfy4szIWXqEY/view?usp=sharing) 
@@ -36,3 +36,4 @@
 |    32  | Shivam Singh </br> Sreekant Nair </br> Nilesh Kumar Singh | Global Plastic Pollution | [Link](https://drive.google.com/drive/folders/1EEI3yd9pKYsSLYdAuc8nC9mGHiyu7vbS?usp=share_link) |
 |    33  | Nivedita Anand </br> Nikhil Kalra </br> Arushi Roy </br> Prateek Bahrani </br> Varshith | Food Consumption and Sales of a Cafe | [Link](https://youtu.be/WBePIUD7jXc) |
 |    34  | Aditya S </br> Shikhar Agrawal </br> Nikhil Burdak </br> Anishka Kesaria | Crime and Economy - Relating sconomic statistics with crime | [Link](https://www.canva.com/design/DAFf6fwxXss/Bg88BBFpeTfAN3pnBsH5lw/view) |
+
