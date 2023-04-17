@@ -17,8 +17,13 @@ Welcome to the largest open source collaborative project for our course ever!
 - [Home](https://github.com/VikashPR/18CSE301J-Projects)
 - [Projects](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Projects.md)
 - [Presentations](https://github.com/VikashPR/18CSE301J-Projects/blob/main/Presentations.md)
+- [Final Video](https://github.com/StoryTelling-UsingData/18CSE301J-Projects/blob/main/Final-Visualization.md)
+- [Final Project Docs](https://github.com/StoryTelling-UsingData/18CSE301J-Projects/blob/main/Final-Visualization.md)
 
-![data-visualization](https://user-images.githubusercontent.com/69889418/226487522-bec3c983-429a-420b-830c-3f37e26a4cec.jpg)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69889418/226487522-bec3c983-429a-420b-830c-3f37e26a4cec.jpg" width="600"/>
+</p>
 
 ## Contributors
 Thanks to the following contributors for their contributions to this Data Visualization gallery
