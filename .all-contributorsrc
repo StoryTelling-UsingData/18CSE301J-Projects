@@ -605,6 +605,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "arydutta",
+      "name": "Aryan Dutta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83546165?v=4",
+      "profile": "https://github.com/arydutta",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
