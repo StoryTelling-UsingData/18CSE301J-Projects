@@ -745,6 +745,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "kirtikalal",
+      "name": "kirtikalal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101549262?v=4",
+      "profile": "https://github.com/kirtikalal",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
