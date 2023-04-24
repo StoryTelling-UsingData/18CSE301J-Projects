@@ -525,6 +525,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "sesha-vineeth-1",
+      "name": "sesha-vineeth-1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127305703?v=4",
+      "profile": "https://github.com/sesha-vineeth-1",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
