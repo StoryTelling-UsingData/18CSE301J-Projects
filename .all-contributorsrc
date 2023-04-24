@@ -405,6 +405,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "VanshitRawat",
+      "name": "Vanshit Rawat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94633507?v=4",
+      "profile": "https://github.com/VanshitRawat",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
