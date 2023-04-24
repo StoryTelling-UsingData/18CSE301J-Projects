@@ -545,6 +545,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Swaraliii",
+      "name": "Swaraliii",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112412156?v=4",
+      "profile": "https://github.com/Swaraliii",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
