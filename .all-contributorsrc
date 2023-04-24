@@ -565,6 +565,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "MeHuL389",
+      "name": "Mehul Saini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72306579?v=4",
+      "profile": "https://github.com/MeHuL389",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
