@@ -645,6 +645,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "prateekbahrani",
+      "name": "prateekbahrani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103777805?v=4",
+      "profile": "https://github.com/prateekbahrani",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
