@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-63-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -112,6 +112,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JusJos"><img src="https://avatars.githubusercontent.com/u/91304818?v=4?s=100" width="100px;" alt="Justin Joseph"/><br /><sub><b>Justin Joseph</b></sub></a><br /><a href="#content-JusJos" title="Content">🖋</a> <a href="#example-JusJos" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/arydutta"><img src="https://avatars.githubusercontent.com/u/83546165?v=4?s=100" width="100px;" alt="Aryan Dutta"/><br /><sub><b>Aryan Dutta</b></sub></a><br /><a href="#content-arydutta" title="Content">🖋</a> <a href="#example-arydutta" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/niveditaanand"><img src="https://avatars.githubusercontent.com/u/72296804?v=4?s=100" width="100px;" alt="Nivedita Anand"/><br /><sub><b>Nivedita Anand</b></sub></a><br /><a href="#content-niv-a" title="Content">🖋</a> <a href="#example-niv-a" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nikhil-Kalra"><img src="https://avatars.githubusercontent.com/u/76988044?v=4?s=100" width="100px;" alt="Nikhil-Kalra"/><br /><sub><b>Nikhil-Kalra</b></sub></a><br /><a href="#content-Nikhil-Kalra" title="Content">🖋</a> <a href="#example-Nikhil-Kalra" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
