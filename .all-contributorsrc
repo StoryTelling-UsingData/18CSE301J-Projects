@@ -635,6 +635,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "royarushi",
+      "name": "royarushi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103821486?v=4",
+      "profile": "https://github.com/royarushi",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
