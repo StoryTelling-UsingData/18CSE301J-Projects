@@ -665,6 +665,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "SarthakJain1012",
+      "name": "Sarthak Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84189432?v=4",
+      "profile": "https://github.com/SarthakJain1012",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
