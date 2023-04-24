@@ -535,6 +535,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "siddhardha123",
+      "name": "siddhardha123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71877477?v=4",
+      "profile": "https://github.com/siddhardha123",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
