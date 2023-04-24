@@ -465,6 +465,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "AnishkaKesaria",
+      "name": "Anishka.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71920305?v=4",
+      "profile": "https://github.com/AnishkaKesaria",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
