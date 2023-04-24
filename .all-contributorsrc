@@ -735,6 +735,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "DebdattaSingha",
+      "name": "Debdatta Singha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93937723?v=4",
+      "profile": "https://github.com/DebdattaSingha",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
