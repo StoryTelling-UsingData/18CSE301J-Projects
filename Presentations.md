@@ -39,4 +39,4 @@ Use `</br>` tag in **Team Members** section, so as to enter new name as they wil
 |    32  | Suresh Suthar </br> Nitin Srivastava  | Analysis of Housing Prices  | [Link](https://docs.google.com/presentation/d/1gdkxLwqvF-mATlXU9NnlH7e0BMIQrqTUHKndWu-EH3E/edit?usp=sharing) 
 |    33  | Akash Prasad </br>Ritik Raj </br>Justin Joseph </br>Aryan Dutta|Employee Satisfaction Analysis | [Link](https://www.canva.com/design/DAFeZYlvW3M/oQ15upSpteFwq1ve8ug0Ng/edit) 
 |    34  | Debayan Roy  | Resturants near potheri  | [Link](https://drive.google.com/drive/folders/1nlbvFdtbCeSZMhm17vB123nr8D5Px6KW?usp=sharing) 
-|    35  | Kommuri Sanjeeva Reddy </br> Gadhamsetti Naga Surya Saiteja | Election Analysis | [Link](https://docs.google.com/presentation/d/1saSycBwCy1tgZFEgmH_s_CxTUKmTmw3I/edit?usp=sharing&ouid=104896740426419474014&rtpof=true&sd=true)
+|    35  | Kommuri Sanjeeva Reddy </br> Gadhamsetti Naga Surya Saiteja | Election Analysis | [Link](https://docs.google.com/presentation/d/1ZWuymsrICmqhdiI6oZ3qZEFscM5F_mWs/edit?usp=share_link&ouid=104896740426419474014&rtpof=true&sd=true)
