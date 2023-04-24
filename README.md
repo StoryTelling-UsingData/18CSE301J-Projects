@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -89,6 +89,7 @@ Thanks to the following contributors for their contributions to this Data Visual
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Manoj-Routhu"><img src="https://avatars.githubusercontent.com/u/78267609?v=4?s=100" width="100px;" alt="Manoj Routhu "/><br /><sub><b>Manoj Routhu </b></sub></a><br /><a href="#content-Manoj-Routhu" title="Content">🖋</a> <a href="#example-Manoj-Routhu" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pravieen"><img src="https://avatars.githubusercontent.com/u/100255410?v=4?s=100" width="100px;" alt="A.S.Pravieen"/><br /><sub><b>A.S.Pravieen</b></sub></a><br /><a href="#content-pravieen" title="Content">🖋</a> <a href="#example-pravieen" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>

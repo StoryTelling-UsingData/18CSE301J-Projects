@@ -435,6 +435,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "pravieen",
+      "name": "A.S.Pravieen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100255410?v=4",
+      "profile": "https://github.com/pravieen",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
