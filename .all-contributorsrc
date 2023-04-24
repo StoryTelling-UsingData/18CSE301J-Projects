@@ -695,6 +695,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "achalkamboj",
+      "name": "Achal Kamboj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82465596?v=4",
+      "profile": "https://github.com/achalkamboj",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
