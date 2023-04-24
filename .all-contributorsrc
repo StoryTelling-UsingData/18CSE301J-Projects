@@ -675,6 +675,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "shubhamgusain2112",
+      "name": "Shubham Gusain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102317680?v=4",
+      "profile": "https://shubhamgusain2112.github.io/Portfolio/",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
