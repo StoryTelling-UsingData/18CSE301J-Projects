@@ -585,6 +585,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "ritikraj018",
+      "name": "Ritik Raj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78099566?v=4",
+      "profile": "https://ritikraj018.github.io/Portofolio-Website/",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
