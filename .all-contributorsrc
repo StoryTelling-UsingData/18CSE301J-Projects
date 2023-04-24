@@ -555,6 +555,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "AYUTZO",
+      "name": "AYUSH KUMAR ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80769148?v=4",
+      "profile": "https://github.com/AYUTZO",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
