@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -102,6 +102,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pm0205"><img src="https://avatars.githubusercontent.com/u/98740284?v=4?s=100" width="100px;" alt="POTHUREDDY VIJAY MANOHAR"/><br /><sub><b>POTHUREDDY VIJAY MANOHAR</b></sub></a><br /><a href="#content-pm0205" title="Content">🖋</a> <a href="#example-pm0205" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sesha-vineeth-1"><img src="https://avatars.githubusercontent.com/u/127305703?v=4?s=100" width="100px;" alt="sesha-vineeth-1"/><br /><sub><b>sesha-vineeth-1</b></sub></a><br /><a href="#content-sesha-vineeth-1" title="Content">🖋</a> <a href="#example-sesha-vineeth-1" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/siddhardha123"><img src="https://avatars.githubusercontent.com/u/71877477?v=4?s=100" width="100px;" alt="siddhardha123"/><br /><sub><b>siddhardha123</b></sub></a><br /><a href="#content-siddhardha123" title="Content">🖋</a> <a href="#example-siddhardha123" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Swaraliii"><img src="https://avatars.githubusercontent.com/u/112412156?v=4?s=100" width="100px;" alt="Swaraliii"/><br /><sub><b>Swaraliii</b></sub></a><br /><a href="#content-Swaraliii" title="Content">🖋</a> <a href="#example-Swaraliii" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
