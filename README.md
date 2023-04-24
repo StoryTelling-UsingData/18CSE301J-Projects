@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -127,6 +127,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/akash-ps-b9911a154/"><img src="https://avatars.githubusercontent.com/u/100912220?v=4?s=100" width="100px;" alt="Akash PS"/><br /><sub><b>Akash PS</b></sub></a><br /><a href="#content-psakash2003" title="Content">🖋</a> <a href="#example-psakash2003" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Surya2458"><img src="https://avatars.githubusercontent.com/u/81920587?v=4?s=100" width="100px;" alt="Surya2458"/><br /><sub><b>Surya2458</b></sub></a><br /><a href="#content-Surya2458" title="Content">🖋</a> <a href="#example-Surya2458" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/saivaibhav7"><img src="https://avatars.githubusercontent.com/u/117345097?v=4?s=100" width="100px;" alt="saivaibhav7"/><br /><sub><b>saivaibhav7</b></sub></a><br /><a href="#content-saivaibhav7" title="Content">🖋</a> <a href="#example-saivaibhav7" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DebdattaSingha"><img src="https://avatars.githubusercontent.com/u/93937723?v=4?s=100" width="100px;" alt="Debdatta Singha"/><br /><sub><b>Debdatta Singha</b></sub></a><br /><a href="#content-DebdattaSingha" title="Content">🖋</a> <a href="#example-DebdattaSingha" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
