@@ -395,6 +395,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Sharwannnn",
+      "name": "Sharwan Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83391706?v=4",
+      "profile": "https://github.com/Sharwannnn",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
