@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -107,6 +107,7 @@ Thanks to the following contributors for their contributions to this Data Visual
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MeHuL389"><img src="https://avatars.githubusercontent.com/u/72306579?v=4?s=100" width="100px;" alt="Mehul Saini"/><br /><sub><b>Mehul Saini</b></sub></a><br /><a href="#content-MeHuL389" title="Content">🖋</a> <a href="#example-MeHuL389" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/akashprasad7631"><img src="https://avatars.githubusercontent.com/u/78401531?v=4?s=100" width="100px;" alt="Akash Prasad"/><br /><sub><b>Akash Prasad</b></sub></a><br /><a href="#content-akashprasad7631" title="Content">🖋</a> <a href="#example-akashprasad7631" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>

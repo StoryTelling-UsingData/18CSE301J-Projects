@@ -575,6 +575,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "akashprasad7631",
+      "name": "Akash Prasad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78401531?v=4",
+      "profile": "https://github.com/akashprasad7631",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
