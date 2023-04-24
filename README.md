@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-71-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -122,6 +122,9 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://shubhamgusain2112.github.io/Portfolio/"><img src="https://avatars.githubusercontent.com/u/102317680?v=4?s=100" width="100px;" alt="Shubham Gusain"/><br /><sub><b>Shubham Gusain</b></sub></a><br /><a href="#content-shubhamgusain2112" title="Content">🖋</a> <a href="#example-shubhamgusain2112" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Anmol0904"><img src="https://avatars.githubusercontent.com/u/92525228?v=4?s=100" width="100px;" alt="Anmol Agarwal"/><br /><sub><b>Anmol Agarwal</b></sub></a><br /><a href="#content-Anmol0904" title="Content">🖋</a> <a href="#example-Anmol0904" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/achalkamboj"><img src="https://avatars.githubusercontent.com/u/82465596?v=4?s=100" width="100px;" alt="Achal Kamboj"/><br /><sub><b>Achal Kamboj</b></sub></a><br /><a href="#content-achalkamboj" title="Content">🖋</a> <a href="#example-achalkamboj" title="Examples">💡</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/akash-ps-b9911a154/"><img src="https://avatars.githubusercontent.com/u/100912220?v=4?s=100" width="100px;" alt="Akash PS"/><br /><sub><b>Akash PS</b></sub></a><br /><a href="#content-psakash2003" title="Content">🖋</a> <a href="#example-psakash2003" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>

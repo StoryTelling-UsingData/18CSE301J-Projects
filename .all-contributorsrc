@@ -705,6 +705,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "psakash2003",
+      "name": "Akash PS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100912220?v=4",
+      "profile": "https://www.linkedin.com/in/akash-ps-b9911a154/",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
