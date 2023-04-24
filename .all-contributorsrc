@@ -445,6 +445,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "shikharagrawal2002",
+      "name": "Shikhar Agrawal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22851963?v=4",
+      "profile": "https://github.com/shikharagrawal2002",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
