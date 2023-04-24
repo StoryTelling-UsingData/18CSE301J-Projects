@@ -625,6 +625,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Nikhil-Kalra",
+      "name": "Nikhil-Kalra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76988044?v=4",
+      "profile": "https://github.com/Nikhil-Kalra",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
