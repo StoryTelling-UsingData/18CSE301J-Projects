@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -98,6 +98,7 @@ Thanks to the following contributors for their contributions to this Data Visual
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gh9049"><img src="https://avatars.githubusercontent.com/u/93936432?v=4?s=100" width="100px;" alt="Sai Harish_G"/><br /><sub><b>Sai Harish_G</b></sub></a><br /><a href="#content-gh9049" title="Content">🖋</a> <a href="#example-gh9049" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/PRABHAV-RA2011003011010"><img src="https://avatars.githubusercontent.com/u/126558346?v=4?s=100" width="100px;" alt="PRABHAV-RA2011003011010"/><br /><sub><b>PRABHAV-RA2011003011010</b></sub></a><br /><a href="#content-PRABHAV-RA2011003011010" title="Content">🖋</a> <a href="#example-PRABHAV-RA2011003011010" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
