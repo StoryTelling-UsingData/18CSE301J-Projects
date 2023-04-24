@@ -455,6 +455,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "NikhilBurdak",
+      "name": "NikhilBurdak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96983947?v=4",
+      "profile": "https://github.com/NikhilBurdak",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
