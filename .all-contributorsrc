@@ -425,6 +425,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Manoj-Routhu",
+      "name": "Manoj Routhu ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78267609?v=4",
+      "profile": "https://github.com/Manoj-Routhu",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
