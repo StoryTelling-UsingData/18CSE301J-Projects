@@ -615,6 +615,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "niv-a",
+      "name": "Nivedita Anand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72296804?v=4",
+      "profile": "https://www.linkedin.com/in/niveditaanand",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
