@@ -685,6 +685,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "Anmol0904",
+      "name": "Anmol Agarwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92525228?v=4",
+      "profile": "https://github.com/Anmol0904",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
