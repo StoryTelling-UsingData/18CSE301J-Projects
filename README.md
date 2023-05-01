@@ -1,6 +1,6 @@
 # 18CSE301J-Projects 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-81-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
@@ -137,6 +137,7 @@ Thanks to the following contributors for their contributions to this Data Visual
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kishorekhan2003"><img src="https://avatars.githubusercontent.com/u/67633395?v=4?s=100" width="100px;" alt="kishorekhan2003"/><br /><sub><b>kishorekhan2003</b></sub></a><br /><a href="#content-kishorekhan2003" title="Content">🖋</a> <a href="#example-kishorekhan2003" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/sudhersankv"><img src="https://avatars.githubusercontent.com/u/94358947?v=4?s=100" width="100px;" alt="sudhersankv"/><br /><sub><b>sudhersankv</b></sub></a><br /><a href="#content-sudhersankv" title="Content">🖋</a> <a href="#example-sudhersankv" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/harikesh11"><img src="https://avatars.githubusercontent.com/u/101976133?v=4?s=100" width="100px;" alt="harikesh11"/><br /><sub><b>harikesh11</b></sub></a><br /><a href="#example-harikesh11" title="Examples">💡</a> <a href="#content-harikesh11" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/allenben18"><img src="https://avatars.githubusercontent.com/u/126461722?v=4?s=100" width="100px;" alt="allenben18"/><br /><sub><b>allenben18</b></sub></a><br /><a href="#content-allenben18" title="Content">🖋</a> <a href="#example-allenben18" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>
