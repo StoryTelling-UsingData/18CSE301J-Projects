@@ -815,6 +815,16 @@
         "example",
         "content"
       ]
+    },
+    {
+      "login": "allenben18",
+      "name": "allenben18",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126461722?v=4",
+      "profile": "https://github.com/allenben18",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
