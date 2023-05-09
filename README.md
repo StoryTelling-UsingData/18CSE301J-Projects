@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=VikashPR.18CSE301J-Projects) -->
 [![GitHub contributors](https://img.shields.io/github/contributors/VikashPR/18CSE301J-Projects.svg)](https://github.com/VikashPR/18CSE301J-Projects/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/VikashPR/18CSE301J-Projects.svg)](https://github.com/VikashPR/18CSE301J-Projects/issues)
 [![GitHub forks](https://img.shields.io/github/forks/VikashPR/18CSE301J-Projects.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/VikashPR/18CSE301J-Projects/network/members)
